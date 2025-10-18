@@ -2,17 +2,23 @@
 @<embed>{|latex|\vspace{-5\Cvs\}}
 
 
-== Executive Summary
+#@# == Executive Summary
+== 全体概要
 
-In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
+#@# In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
+現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新興技術に迅速に対応できるようになるのだ。
 
-Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
+#@# Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
+スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}@<w>{procurement}の機能を求めている。
 
-The Agile Product Operating Model (APOM) is a way of structuring how an organization delivers value by shifting from project-based to product-based delivery. APOM provides a blueprint for organizing around products using four interdependent pillars: Strategy, People, Structure, and Value Cycle.
+#@# The Agile Product Operating Model (APOM) is a way of structuring how an organization delivers value by shifting from project-based to product-based delivery. APOM provides a blueprint for organizing around products using four interdependent pillars: Strategy, People, Structure, and Value Cycle.
+アジャイルプロダクトオペレーティングモデル（APOM: Agile Product Operating Model）は、組織が価値を提供する方法を、@<w>{project-based}から@<w>{product-based}の提供へと転換することによって構造化するためのアプローチである。APOMは、@<w>{Strategy}（Strategy）、@<w>{People}（People）、@<w>{Structure}（Structure）、@<w>{Value Cycle}（Value Cycle）という相互に依存する4つの柱を用いて、プロダクトを中心に組織を構成するための@<w>{blueprint}を提供する。
 
-Lean-Agile Procurement (LAP) transforms procurement into a strategic enabler within APOM by including procurement into cross-functional teams, dramatically shortening sourcing cycles (by up to 400–800%), and building adaptive supplier ecosystems. Collaborative tools such as the Lean Procurement Canvas and Big Room workshops replace rigid RFP processes with flexible, outcome-driven partnerships.
+#@# Lean-Agile Procurement (LAP) transforms procurement into a strategic enabler within APOM by including procurement into cross-functional teams, dramatically shortening sourcing cycles (by up to 400–800%), and building adaptive supplier ecosystems. Collaborative tools such as the Lean Procurement Canvas and Big Room workshops replace rigid RFP processes with flexible, outcome-driven partnerships.
+Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦略的な@<w>{enabler}へと変革する。これは、@<w>{procurement}を@<w>{cross-functional}チームに組み込み、@<w>{sourcing cycles}を劇的に短縮（最大400〜800％）し、適応力のある@<w>{supplier}エコシステムを構築することで実現される。Lean Procurement CanvasやBig Roomワークショップなどの協働ツールは、硬直したRFPプロセスに代わり、柔軟で@<w>{outcome-driven}なパートナーシップを実現する。
 
-Global research and case studies—including Roche, Air France KLM, Swiss Railways, Swiss Casinos, Auckland Council @<bib>{1}, and Dunedin City Council6—show that integrating APOM and LAP delivers faster time-tomarket, as much as 80% cost savings, and increased innovation throughput, with satisfaction rates of 9/10 among both buyers and suppliers. For leadership, the imperative is clear: embedding procurement into the core value creation cycle enables faster strategic pivots, stronger resilience, and a lasting competitive advantage in a market defined by speed and adaptability.
+#@# Global research and case studies — including Roche, Air France KLM, Swiss Railways, Swiss Casinos, Auckland Council @<bib>{1}, and Dunedin City Council6 — show that integrating APOM and LAP delivers faster time-to-market, as much as 80% cost savings, and increased innovation throughput, with satisfaction rates of 9/10 among both buyers and suppliers. For leadership, the imperative is clear: embedding procurement into the core value creation cycle enables faster strategic pivots, stronger resilience, and a lasting competitive advantage in a market defined by speed and adaptability.
+グローバルな調査とケーススタディ ── Roche、Air France KLM、Swiss Railways、Swiss Casinos、Auckland Council @<bib>{1}、およびDunedin City Council ── によると、APOMとLAPを統合することで、市場に出すまでの時間を短縮し、最大80％のコスト削減とイノベーションのスループット向上を実現している。さらに、発注側と受託側の双方での満足度は10点満点中で9点に達している。@<w>{leadership}にとって、その必要性は明白である。@<w>{procurement}を価値創出サイクルの中核に組み込むことが、迅速で戦略的なピボット、より強固なレジリエンス、そしてスピードと適応力が重要となる市場における持続的な競争優位をもたらす。
 
 == The Strategic Context: Why Procurement Transformation Matters Now
 
