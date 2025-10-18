@@ -1,0 +1,469 @@
+=[nonum]
+@<embed>{|latex|\vspace{-5\Cvs\}}
+
+
+== Executive Summary
+
+In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
+
+Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
+
+The Agile Product Operating Model (APOM) is a way of structuring how an organization delivers value by shifting from project-based to product-based delivery. APOM provides a blueprint for organizing around products using four interdependent pillars: Strategy, People, Structure, and Value Cycle.
+
+Lean-Agile Procurement (LAP) transforms procurement into a strategic enabler within APOM by including procurement into cross-functional teams, dramatically shortening sourcing cycles (by up to 400–800%), and building adaptive supplier ecosystems. Collaborative tools such as the Lean Procurement Canvas and Big Room workshops replace rigid RFP processes with flexible, outcome-driven partnerships.
+
+Global research and case studies—including Roche, Air France KLM, Swiss Railways, Swiss Casinos, Auckland Council @<bib>{1}, and Dunedin City Council6—show that integrating APOM and LAP delivers faster time-tomarket, as much as 80% cost savings, and increased innovation throughput, with satisfaction rates of 9/10 among both buyers and suppliers. For leadership, the imperative is clear: embedding procurement into the core value creation cycle enables faster strategic pivots, stronger resilience, and a lasting competitive advantage in a market defined by speed and adaptability.
+
+== The Strategic Context: Why Procurement Transformation Matters Now
+
+=== The Changing Business Landscape
+
+The global business environment has undergone a fundamental shift. 82% of organizations say they face challenges in balancing short-term needs with long-term strategic changes @<bib>{2}. This tension between rapid response and long-range planning creates unique demands on procurement functions that traditional approaches cannot meet.
+
+Organizations are moving to a more product-focused model, which is where the Agile Product Operating Model (APOM) is an effective approach. A key enabler of the structure to support the product approach is to have procurement involved throughout, helping teams discover alternatives to building a product. Procurement needs to integrate at both strategic and value stream levels effectively. Early and continued engagement will shape the enterprise, portfolio and team decisions and speed of delivery.
+
+@<b>{Real-World Impact}: Consider Netflix's transformation from a DVD-bymail service to a streaming platform to a content creator. Each phase required different supplier relationships, technologies, and contractual arrangements. Traditional procurement would have locked them into multi-year contracts with DVD manufacturers just as the market was shifting to streaming. Agile procurement enabled rapid pivots and strategic partnerships that defined their success.
+
+This was achieved by the Netflix culture of People over Process @<bib>{3}. This emphasizes transparency and accountability for achieving successful outcomes. The balance of trust, freedom and accountability enabled Netflix to streamline the procurement process.
+
+===[column]
+
+Several converging trends are reshaping the procurement landscape:
+
+==== Digital Acceleration
+
+The digital transformation of procurement processes has been underway for several years, but the future will see a significant acceleration in the adoption of e-procurement platforms and digital solutions. The need for greater efficiency, transparency, and real-time data drives this trend. It is essential that strategic sourcing professionals utilize increased automation and tooling to better deal with the increase in complex and uncertain procurement demands.
+
+==== Cybersecurity Imperative
+According to BCI's Supply Chain Resilience Survey, "Cybersecurity and data breaches are the top threat to supply chains over the next 12 months and the next five years." @<bib>{4} And last year, Cybersecurity Ventures reported that "cybercrime is projected to cost $10.5 trillion in damages by the end of 2025". With new threat vectors appearing on a nearly daily basis, an inability to respond quickly can have a significant impact on an organization.
+
+==== Supplier Relationship Complexity
+From the 2023 State of Agile in Procurement global survey 31% of suppliers have to log into ten or more systems to do business with their most important customer, while 33% of suppliers believe that information needs to be easier to find (e.g. sustainability policies, compliance information) @<bib>{5}. There is increasing disruption by emerging factors: geopolitical decisions, changing regulation in areas including Environmental, Social, and Governance (ESG), and the impact of emerging technological developments.
+
+==== Global Trade
+The changing shape of trade and the impact of tariffs and market dynamics are affecting the procurement and supply landscape. The increased uncertainty of supply and costs requires more frequent review and reevaluation of contracts to maintain successful business outcomes. Ensuring that supply chains are dynamic, flexible, and resilient will enable an organization's ability to quickly adapt.
+
+===[/column]
+
+== The Hidden Cost of Procurement and Product Disconnect
+
+There is great potential for increased business performance when incorporating procurement throughout the organization. This creates a capability where changes to the partner ecosystem (suppliers) are planned for, contractually supported, and risk-managed in a way that enables faster innovation.
+
+@<b>{Procurement Disconnect}: The current procurement approaches are based on the core assumption that change will be minimal, and that the landscape is very predictable. Using a predictive procurement process for complex situations will continue to cause excessive delays and handoffs that inhibit the ability of the product organization to respond. When procurement is represented and integrated into the cross-functional team, there is alignment through the team in finding the suppliers that can collaborate with them. This partner focus creates networks or ecosystems of organizations working for a mutual win-win. This helps reduce risk by integrating contract flexibility into the process. This results in increased auditability and supplier resilience @<bib>{6}.
+
+@<b>{Speed to Market Penalties}: Complex RFP processes that take 6-12 months prevent organizations from capitalizing on market opportunities. In fast-moving sectors like technology and consumer goods, this delay can mean the difference between market leadership and being left behind. Consider that while an organization spends months evaluating suppliers, competitors with agile procurement capabilities are already delivering value to customers.
+
+When a product team is working in Sprints, gaining access to a service or tool can halt development while the 12 month RFP process runs. This makes innovation extremely difficult. If the Team is working in 2 week Sprints, and each Sprint costs $70,000, the cost of delay for the 12 months is $1,820,000 for a single team. In large organizations with multiple teams, this cost grows. The cost of managing contract changes after award will have further impact on the opportunity cost.
+
+@<b>{Innovation Stagnation}: Rigid specifications and transactional vendor relationships stifle collaborative innovation and co-creation. Partner (supplier) collaboration is no longer just about cost-cutting and contract negotiations - it's about driving innovation, ensuring resilience, and creating long-term value for businesses and their suppliers. Organizations that treat suppliers as order-takers rather than innovation partners miss opportunities for breakthrough solutions.
+
+A product focused company will have clarity on its core offerings and own the context in which they are operating. The build versus buy discussion happens more frequently, and any non-core need is procured. This means that having a flexible and responsive procurement process becomes a core feature of the fast moving product model.
+
+@<b>{Agility Constraints}: Fixed contracts prevent timely adaptations to changing business needs and market conditions. In an environment where the learning model through empiricism requires frequent delivery and change, having change constraints built into contracts creates either time or financial costs to adjust. Flexible or Agile contracts that are co-created between all parties, with the intention that they will be reviewed and updated frequently, help shape the environment for the Product Teams and the partners to respond to change with significantly less friction.
+
+@<b>{Quantified Impact}: A single client found that misused and unused purchasing software resulted in a calculated loss of $17 million/year, highlighting the substantial financial impact of procurement inefficiencies. This represents just one dimension of the total cost—when factoring in opportunity costs, innovation delays, and competitive disadvantages, the true impact is often 3-5 times larger.
+
+== The Shift from Projects to Products: A Fundamental Business Model Evolution
+
+Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
+
+
+//tsize[80,80]
+//table[]{
+@<b>{Project-Based Model}	@<b>{Product-Based Model}
+
+----------------------------
+Requirements are known and fixed upfront	Adaptive approaches that evolve with learning and market feedback
+
+Success is measured by adherence to specifications and delivery on time/budget	Success measured by business outcomes achieved and customer value delivered
+
+Risk is managed through detailed contracts, extensive documentation, and oversight	Risk managed through collaboration, rapid experimentation, and continuous feedback
+
+Vendor relationships are transactional: “We tell you what to build, you build it”	Strategic partnerships that enable co-innovation and shared value creation
+
+Change is expensive and undesirable	Change is expected and embraced as learning
+
+Value is delivered at the end of the project lifecycle	Value is delivered continuously throughout the development cycle
+
+//}
+
+Changing Context requires a different approach
+
+The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
+
+//tsize[80,80]
+//table[]{
+@<b>{Traditional Supplier Management}	@<b>{Agile Partner Management}
+----------------------------
+Seeks clear demarcation between customer and supplier, to resolve questions of liability and warranty.	Seeks a collaborative learning culture to achieve mutual success and sustainability with continuous feedback at its core.
+
+After the partnership is defined, progress is monitored without consideration of changing objectives or emerging learning.	An agile collaboration is continuously evaluated for validity and is updated as new information is discovered (emergent learning).
+
+Relationships are defined with rigid notice periods ranging from months to year, and are automatically extended.	Collaboration can be changed (expanded, reduced) or stopped by both parties at any time and does not require a notice period.
+
+Relationships are based on the supplier’s ability to deliver specific outputs.	Collaboration is based on the business outcomes and impact that is collectively achieved
+
+In traditional partnerships each party develops alone. The customer should benefit from any changes. Changing practices is perceived as an obstacle. 	In agile partnerships all parties want to improve together, embracing changing conditions and shared learning.
+
+//}
+
+In a context where there is significant uncertainty, an approach that integrates regular reflection and updates will embed responsiveness into it. The Agile Product Operating Model does this and requires flexibility and speed of response from the procurement process.
+
+The image below highlights the speed of the LAP approach over the traditional approach.
+
+//image[1.TraditionalProcurement][][scale=0.7]{
+//}
+
+//image[2.LeanAgileProcurement][][scale=0.7]{
+//}
+
+The contract review schedule is agreed in the LAP approach, whereas World Commerce & Contracting research found that more than 40% of negotiated business agreements are never reviewed or renegotiated after signing.
+
+== Understanding the Agile Product Operating Model (APOM): A Holistic Framework
+
+The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
+
+//image[APOM][][scale=1.0]{
+//}
+
+=== The Four Pillars of APOM
+
+==== 1. Strategy: The "Why" - Outcome-Focused Direction
+
+APOM strategy moves beyond traditional planning to embrace dynamic, evidence-based decision-making. Instead of 5-year strategic plans that become obsolete within months, APOM emphasizes outcome-driven goals that provide direction while allowing tactical flexibility.
+
+====[column]
+Key characteristics:
+
+ * Clear value propositions tied to customer outcomes
+ * Measurable business objectives that guide daily decisions
+ * Regular strategy reviews based on market feedback and performance data
+ * Alignment between strategic goals and operational activities
+ * Flexibility to pivot based on evidence and changing conditions
+
+====[/column]
+
+@<b>{Procurement Implications}: Supplier selection and contract structures must support strategic agility. This means moving to vendor relationships based on partnerships aligned with strategic outcomes. Building long term win-win partnerships and ecosystems of partnerships is a success enabler.
+
+==== 2. People: The "Who" - Empowered, Cross-Functional Teams
+
+APOM organizes people into stable, cross-functional teams with clear purpose and decision-making authority. These teams combine all the skills necessary to deliver value, reducing handoffs and enabling rapid response to opportunities and challenges.
+
+====[column]
+Team characteristics:
+
+ * Permanent team membership to build trust and working relationships
+ * Clear accountability for specific outcomes and metrics
+ * Authority to make decisions within defined boundaries
+ * Regular skill development and cross-training
+ * Direct access to customers and stakeholders
+ * Teams extend beyond company boundaries, to include everyone in events
+
+====[/column]
+
+@<b>{Procurement Implications}: Procurement capability must be embedded within product teams, enabling them to understand their goals and constraints. The product team has ownership of all the partnerships in their organisation. This creates a cross-company organisation focussed on delivering on the Product Vision. The traditional model of centralized procurement making decisions in isolation becomes obsolete.
+
+==== 3. Structure: The "How" - Enabling Governance and Processes APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
+
+====[column]
+Structural elements:
+
+ * Lightweight governance focused on outcomes rather than activities
+ * Clear decision rights and escalation paths
+ * Standardized tools and processes that enhance rather than constrain
+ * Transparent communication and information sharing
+ * Continuous process improvement based on team feedback
+
+====[/column]
+
+@<b>{Procurement Implications}: Procurement governance must shift from control-based to enablement-based approaches. The central procurement team provides the constraints that the product team is required to operate in. This requires new contract models, streamlined approval processes, and collaborative tools that support rapid decision-making. This improves compliance and auditability through earlier engagement and increased transparency.
+
+==== 4. Value Cycle: The "What" - Continuous Discovery and Delivery 
+
+The value cycle represents the engine of APOM—the continuous loop of discovering customer needs, delivering solutions, and operating products that generate ongoing value. This cycle emphasizes learning, adaptation, and continuous improvement.
+
+====[column]
+Value cycle phases:
+
+ * @<b>{Discovery}: Understanding customer needs, market opportunities, and technical possibilities
+ * @<b>{Delivery}: Building and releasing solutions that address discovered needs
+ * @<b>{Operations}: Running products, gathering feedback, and identifying optimization opportunities
+ * @<b>{Learning}: Analyzing results, extracting insights, and informing future cycles
+
+====[/column]
+
+@<b>{Procurement Implications}: Partners must be integrated into the entire value cycle, from discovery to operations. All external parties are treated like internal staff. This collaboration is defined on the LAP canvas. This requires new forms of collaboration (using more collaborative meeting approaches like the Big Room Event @<bib>{8}, regular engagement in product reviews, more frequent collaborative review of contracts), shared metrics, and adaptive contracting approaches.
+
+== Procurement's Evolution Within APOM
+
+Traditional procurement operates at the periphery of value creation—sourcing inputs for predetermined activities. In APOM, procurement becomes integral to all four pillars:
+
+===[column]
+
+ * @<b>{Strategic Integration}: Procurement decisions made by the business directly impact strategic outcomes. Supplier capabilities, partnership quality, and contract flexibility all influence the organization's ability to achieve strategic goals.
+ * @<b>{Team Collaboration}: Procurement professionals become embedded partners with product teams, understanding their specific needs and constraints while bringing supplier insights and market knowledge.
+ * @<b>{Governance Enablement}: Procurement creates structures that enable rapid decision-making and adaptation while maintaining appropriate controls and risk management.
+ * @<b>{Value Cycle Participation}: Suppliers become active participants in discovery, delivery, and operations, requiring new forms of collaboration and shared accountability.
+
+===[/column]
+
+== Introducing Lean-Agile Procurement: A Strategic Transformation
+
+Lean-Agile Procurement (LAP) represents a fundamental paradigm shift from command-and-control sourcing to outcome-focused, collaboration-centric procurement. This transformation goes beyond process improvement to reimagine procurement's role in value creation. Early supplier involvement does not remove competitive fairness; rather, it increases cultural, human and solution fit and reduces costly rework and effective procurement - you are buying the right thing from the right people.
+
+=== The Philosophy Behind LAP
+
+====[column]
+LAP draws from two complementary approaches:
+
+ * @<b>{Lean Principles}: Eliminating waste, optimizing flow, and focusing on customer value @<bib>{9}
+ * @<b>{Agile Principles}: Embracing change, collaborating with stakeholders, and delivering value iteratively. @<bib>{10}
+
+====[/column]
+
+=== Core Principles of LAP
+
+The focus for LAP is a collaborative and adaptive approach that can accelerate and sustain value creation and build resilience. @<bib>{11}@<bib>{12}
+
+LAP delivers the greatest value in contexts with high strategic importance, significant uncertainty, innovation needs, complex stakeholder environments, time-sensitive opportunities, or long-term partnership potential. This is achieved through:
+
+====[column]
+ * @<b>{Focus on Outcomes, Not Outputs}: Measure success by business outcomes and impact, not just cost savings or process compliance.
+ * @<b>{Iterative, Time-Boxed Procurement}: Use short, collaborative cycles to adapt quickly.
+ * @<b>{Early and Deep Supplier Involvement}: Co-create solutions with partners from the outset to drive innovation.
+ * @<b>{Agile Contracts for Collaboration}: Structure agreements to enable transparency, shared risk, and joint problem-solving. @<bib>{13}
+ * @<b>{Continuous Learning and Improvement}: Regularly inspect, adapt, and enhance supplier contracts and procurement capability.
+
+====[/column]
+
+For more detail about the approach, please visit @<href>{https://www.lap-alliance.org/why-lap/what-is-lean-agile-procurement}.
+
+== The Integration Strategy: LAP Within APOM
+
+The true power of LAP emerges when it's integrated into the broader Agile Product Operating Model rather than implemented as an isolated procurement improvement. This integration creates synergies that amplify the benefits of both approaches.
+
+Building procurement capability into Product teams is a strategic enabler. In the same way that 25 years ago where Product, QA and Operations were separate departments, and are now all integrated into product teams for maximum flexibility in value delivery. Expanding cross functionality to include all the core business capabilities enhances timely decision making while improving risk management and compliance.
+
+=== Strategic Alignment: From Cost Center to Strategic Enabler
+
+@<b>{Traditional Procurement Role}: Procurement operates as a cost center focused on purchasing efficiency, with success measured by cost savings and process compliance.
+
+@<b>{LAP-APOM Integration}: Procurement becomes a strategic enabler directly contributing to business outcomes, with success measured by strategic impact and value creation.
+
+==== Integration Mechanisms:
+Outcome-Based Supplier Selection: Instead of selecting suppliers based primarily on cost, LAP ensures supplier selection directly supports APOM strategic objectives. This might mean choosing suppliers with stronger innovation capabilities, better collaboration skills, or superior strategic alignment even if they're not the lowest cost option. 
+
+@<i>{Strategic Partnership Development}: LAP's collaborative approach naturally creates the strategic partnerships that APOM requires. Organizations with the most successful partnerships create cross-company cross-functional teams solely focused on joint innovation with partners. By creating a practice of "open innovation", organisations aim to coordinate their efforts and leverage the skills and interests of people throughout all companies.
+
+@<i>{Value Stream Integration}: Procurement decisions are aligned with APOM value streams, ensuring that supplier capabilities, contract terms, and partnership structures directly support value delivery to customers.
+
+@<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
+
+== Agile Governance: Enabling Rather Than Constraining
+
+@<b>{Traditional Governance Challenge}: Procurement governance often constrains agility through rigid approval processes, fixed contract terms, and risk-averse decision-making.
+
+@<b>{LAP-APOM Governance Model}: Governance structures that enable rapid decision-making while maintaining appropriate controls and risk management. 
+
+=== Governance Innovations:
+@<i>{Outcome-Based Controls}: Instead of controlling activities, governance focuses on outcomes and provides teams with flexibility in how they achieve results.
+
+@<i>{Dynamic Risk Management}: Rather than trying to eliminate risk through detailed contracts, governance enables calculated risk-taking with mechanisms for rapid course correction.
+
+@<i>{Streamlined Approvals}: Governance processes are designed for speed and effectiveness, with clear decision rights and streamlined approval workflows.
+
+@<i>{Transparent Communication}: Governance structures ensure stakeholders have visibility into decisions and outcomes without creating bureaucratic overhead.
+
+@<i>{Continuous Improvement}: Governance processes themselves are subject to regular review and improvement based on team feedback and performance results.
+
+== Cross-Functional and Cross Company Collaboration: Breaking Down Silos
+
+@<b>{The Silo Challenge}: Traditional procurement operates in isolation from product teams, leading to misaligned supplier selection, contract terms that constrain agility, and missed opportunities for supplier-driven innovation.
+
+@<b>{LAP-APOM Solution}: LAP's "Big Room" format naturally creates the cross-functional collaboration that APOM requires, while APOM's team structure provides the organizational foundation for sustained collaboration.
+
+=== Collaboration Mechanisms:
+
+ * @<i>{Embedded Procurement Professionals}: Instead of centralized procurement making decisions in isolation, procurement professionals become embedded partners with APOM product teams, understanding their specific needs, constraints, and success criteria.
+
+ * @<i>{Collaborative Decision-Making}: The Lean Agile Procurement Canvas brings together all relevant stakeholders—product managers, technical leads, legal counsel, finance, and suppliers—to make decisions collaboratively rather than sequentially.
+
+ * @<i>{Shared Accountability}: Both LAP and APOM emphasize shared accountability for outcomes rather than functional accountability for activities. This alignment creates natural incentives for collaboration and mutual support.
+
+ * @<i>{Continuous Communication}: Rather than periodic procurement reviews, LAP and APOM integration creates continuous communication channels between procurement and product teams, enabling rapid response to changing needs and opportunities.
+
+== Accelerated Value Cycles: Speed Without Compromise
+
+@<b>{The Speed Imperative}: APOM's value cycles depend on rapid iteration and feedback. Traditional procurement cycles that take 6-12 months fundamentally undermine this speed requirement.
+
+@<b>{LAP's Speed Solution}: By compressing procurement timelines from months to days or weeks, LAP enables APOM value cycles to operate at their intended pace.
+
+=== Value Cycle Integration Points:
+
+ * @<i>{Discovery Phase}: Suppliers contribute market insights, technical expertise, and innovative ideas during the discovery phase rather than being engaged only after requirements are fixed.
+
+ * @<i>{Delivery Phase}: Adaptive contracts enable suppliers to evolve their contributions based on learning and feedback during delivery, supporting the APOM iterative approach.
+
+ * @<i>{Operations Phase}: Suppliers become active participants in operations, monitoring performance, identifying optimization opportunities, and contributing to continuous improvement.
+
+ * @<i>{Learning Phase}: Supplier insights and performance data contribute to organizational learning, informing future strategy and procurement decisions.
+
+====[column]
+@<b>{Compound Benefits}: The integration of LAP and APOM creates benefits that exceed the sum of individual improvements:
+ * Faster strategy execution through aligned supplier capabilities
+ * Enhanced innovation through collaborative partnerships
+ * Improved risk management through shared accountability
+ * Greater organizational agility through adaptive supplier relationships
+
+====[/column]
+
+== Measuring Success: Value Realization Measured through Evidence
+Successful LAP and APOM integration requires comprehensive measurement systems that track both traditional procurement metrics and new indicators of collaborative excellence and strategic value creation. @<bib>{14}
+
+=== An evidence-based approach
+
+//image[kva][][scale=1.0]{
+//}
+
+=== Traditional Procurement Metrics Evolution
+
+===[column]
+==== Cost Metrics Evolution
+ * @<i>{Traditional}: Total cost savings, unit cost reduction, cost avoidance
+ * @<i>{LAP-APOM}: Total cost of ownership optimization, value-for-money improvement, strategic cost positioning
+
+==== Time Metrics Evolution
+ * @<i>{Traditional}: Procurement cycle time, time to contract, supplier onboarding time
+ * @<i>{LAP-APOM}: Time to value realization, speed of adaptation, collaborative decision-making velocity
+
+==== Quality Metrics Evolution
+ * @<i>{Traditional}: Specification compliance, defect rates, supplier performance ratings
+ * @<i>{LAP-APOM}: Outcome achievement, solution effectiveness, stakeholder satisfaction
+
+===[/column]
+
+=== New Collaborative Excellence Metrics
+
+//tsize[60,30,70]
+//table[]{
+@<b>{Area}	@<b>{Key Value Area}	@<b>{Metric}
+----------------------------
+Relationship Quality Indicators	Current Value	Supplier satisfaction scores with collaborative processes
+
+Relationship Quality Indicators	Current Value	Trust and partnership quality assessments
+
+Relationship Quality Indicators	Ability to Innovate	Collaborative innovation metrics
+
+Agility and Adaptation Metrics	Ability to Innovate	Speed of contract modification and adaptation
+
+Agility and Adaptation Metrics	Time to Market	Responsiveness to changing requirements
+
+Agility and Adaptation Metrics	Ability to Innovate	Frequency and effectiveness of collaborative improvements
+
+Agility and Adaptation Metrics	Unrealized Value	Market opportunity capture rate
+
+Strategic Value Creation Metrics	Current Value	Contribution to strategic objective achievement
+
+Strategic Value Creation Metrics	Ability to Innovate	Innovation generated through supplier partnerships
+
+Strategic Value Creation Metrics	Unrealized Value	Competitive advantage created through procurement capabilities
+
+Strategic Value Creation Metrics	Current Value	Internal stakeholder satisfaction with procurement outcomes
+
+//}
+
+== Critical Success Factors for Implementation
+
+===[column]
+Successful integration of the Lean-Agile Procurement approach with APOM requires a deliberate change management approach. Successful implementations demonstrate several critical success factors:
+
+ 1. Executive Leadership and Sponsorship
+ 2. Cross Functional Capability Building
+ 3. Agile Contracting Competency Development @<bib>{15}
+ 4. Cultural Support and Change Management
+ 5. Effective Product Ownership
+
+===[/column]
+
+=== Executive Leadership and Sponsorship
+Executive support must demonstrate active leadership of the cultural and organizational change. Leadership needs to embrace the trust based model, building clarity around constraints and holding individuals and teams accountable for value delivery and outcomes.When leaders model collaborative, outcome based, behaviors in their work, it provides a clear example for all product and procurement teams to follow.
+
+=== Cross Functional Capability Building
+The value of cross functional teams is key in APOM and LAP. Having the right team members from business, legal, operational, technical and procurement assemble to make unified and timely decisions is key. Many organizations struggle with siloed structures and misalignment on the strategic direction.
+
+=== Agile Contracting Competency Development
+The movement from fixed scope, risk transfer, compliance and reduced cost to an outcome focus will require education and support. Agile contracts and delivery emphasize alignment on strategic goals, with a collaborative approach to delivery and problem solving. Using objective evidence-based measurement and regular and timely opportunities to change (inspection and adaptation) helps develop the internal competency. @<bib>{16}
+
+=== Cultural Support and Change Management
+The shift from control-based to trust-based interactions challenges traditional approaches to people management and procurement. 
+
+====[column]
+Success requires fundamental shifts in embedded procurement from:
+
+ * Cost to Value
+ * Compliance to Outcome
+ * Adversarial to Collaborative
+ * Competitive to Mutual success
+
+These shifts will establish a Product aligned approach, enabling broader organizational changes. @<bib>{17}
+
+====[/column]
+
+=== Effective Product Ownership
+Within the APOM and LAP approaches the Product Owner needs to be effective. This requires them to own the whole partner ecosystem for their product - to enable them to manage for the maximum value delivered. The Product Owner will have the ability to deliver, and be accountable for the value delivered and the return on investment.
+
+== Conclusion: The Strategic Imperative for Procurement Transformation
+
+=== The Adoption Imperative
+
+To successfully embrace a more product-based operating model, building a capability for procurement to establish partnerships with suppliers is key. The LAP approach is a natural fit for APOM. Building in the speed and flexibility of contracting into the product and portfolio team capability creates a foundation for success.
+
+Adopting this approach one product at a time is a proven change mechanism, allowing for the organisation to apply the learnings in an iterative manner. 
+
+The evidence is overwhelming: procurement transformation is no longer optional—it's a strategic imperative for organizations seeking to compete effectively in an uncertain, fast-changing world. The convergence of digital transformation, supply chain complexity, regulatory requirements, and competitive pressures creates an environment where traditional procurement approaches are not just ineffective—they're actively harmful to organizational performance.
+
+Organizations continuing to operate procurement as a traditional cost-cutting function will find themselves at an increasing disadvantage to competitors who understand that procurement is a strategic enabler of agility, innovation, and competitive advantage. The question is not whether to transform procurement, but how quickly and effectively to execute that transformation.
+
+LAP, when integrated with APOM, represents a proven approach to procurement transformation that delivers measurable results.
+
+ * @<b>{Performance Gains} – 400–800% faster procurement cycles, over 9/10 buyer–vendor satisfaction, 40–60% fewer disputes, and up to 40% more innovative solutions through collaboration.
+
+ * @<b>{Strategic Advantage} – Faster market response, extended organizational agility, stronger supplier partnerships, and sustained competitive differentiation.
+
+ *@<b>{Cultural & Organizational Impact} – Improved cross-functional collaboration, stronger strategic thinking, higher employee engagement, and greater resilience in uncertainty.
+
+=== The Path Forward
+The choice for senior leaders is clear: evolve procurement capabilities now to build sustainable competitive advantages, or risk being outmaneuvered by more agile competitors. The tools, frameworks, and proven practices exist. What's needed is executive commitment to transformation and the courage to move beyond traditional approaches that no longer serve modern business needs.
+
+===[column]
+==== Immediate Next Steps
+ 1. @<b>{Assessment and Readiness}: Evaluate current procurement capabilities and organizational readiness for transformation
+ 2. @<b>{Executive Alignment}: Secure executive commitment and resource allocation for comprehensive procurement transformation
+ 3. @<b>{Pilot Planning}: Identify high-value pilot opportunities that can demonstrate LAP benefits and build organizational momentum
+ 4. @<b>{Capability Building}: Begin developing internal capabilities and external partnerships necessary for successful implementation
+ 5. @<b>{Transformation Roadmap}: Develop detailed transformation roadmap with clear milestones, success metrics, and accountability structures
+
+===[/column]
+
+== Final Perspective: Beyond Procurement to Organizational Excellence
+LAP and APOM integration represents more than procurement improvement—it's a pathway to organizational excellence in the 21st century. The collaborative capabilities, strategic thinking, and adaptive approaches developed through procurement transformation create organizational capabilities that provide value across all business functions.
+
+Organizations that master collaborative procurement will build sustainable advantages not just in cost and efficiency, but in innovation, agility, and strategic partnership development. These capabilities become increasingly valuable as markets become more volatile, competitive pressures intensify, and customer expectations continue to evolve.
+
+By embracing LAP with APOM, organizations can build procurement capabilities that are responsive, evidence-based, and optimized for the complexity and uncertainty of the modern business environment. The transformation journey requires commitment, investment, and persistence, but the rewards—in terms of competitive advantage, organizational capability, and strategic value creation—make it one of the most important strategic initiatives an organization can undertake.
+
+The future belongs to organizations that can collaborate effectively, adapt quickly, and create value through strategic partnerships. LAP and APOM integration provides a proven pathway to building these capabilities and securing competitive advantage for the decades ahead.
+
+== About Scrum.org
+Scrum.org, the Home of Scrum, was founded by Scrum co-creator Ken Schwaber as a mission-based organization to help people and teams solve complex problems. We do this by enabling people to apply Professional Scrum through training courses, certifications and ongoing learning all based on a common competency model.
+
+//image[Scrumorg][][scale=0.5]{
+//}
+
+
+== About Lean Agile Procurement
+For nearly a decade, the Lean-Agile Procurement Alliance has helped public and private organizations achieve better, faster outcomes through a win-win mindset, reduced bureaucracy, and cross-company collaboration. As a global not-for-profit certification body, the LAP Alliance unites experts and trainers on nearly every continent. Lean-Agile Procurement (LAP) is now the standard approach for strategic sourcing. With this white paper we show how LAP integrates with APOM and other agile operating models.
+
+//image[LAP][][scale=0.5]{
+//}
+

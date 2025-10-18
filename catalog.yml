@@ -1,0 +1,7 @@
+PREDEF:
+  - cover.re
+CHAPS:
+  - main.re
+APPENDIX:
+POSTDEF:
+ - bib.re
