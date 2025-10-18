@@ -49,5 +49,5 @@ Re:VIEWの原稿は以下を基本としています。
  * 「である調」にしています。
 
 ### 用語集は、words.csv
-https://github.com/tomoharunagasawa/apom-doc/blob/main/words.csv
+https://github.com/tomoharunagasawa/lean-agile-apom/blob/main/words.csv  
 CSV形式。```@<w>{(用語)}```で置換される
