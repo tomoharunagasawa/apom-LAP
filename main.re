@@ -18,7 +18,7 @@
 Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦略的な@<w>{enabler}へと変革する。これは、@<w>{procurement}を@<w>{cross-functional}チームに組み込み、@<w>{sourcing cycles}を劇的に短縮（最大400〜800％）し、適応力のある@<w>{supplier}エコシステムを構築することで実現される。Lean Procurement CanvasやBig Roomワークショップなどの@<w>{collaborative}なツールは、硬直したRFPプロセスに代わり、柔軟で@<w>{outcome-driven}なパートナーシップを実現する。
 
 #@# Global research and case studies — including Roche, Air France KLM, Swiss Railways, Swiss Casinos, Auckland Council @<bib>{1}, and Dunedin City Council6 — show that integrating APOM and LAP delivers faster time-to-market, as much as 80% cost savings, and increased innovation throughput, with satisfaction rates of 9/10 among both buyers and suppliers. For leadership, the imperative is clear: embedding procurement into the core value creation cycle enables faster strategic pivots, stronger resilience, and a lasting competitive advantage in a market defined by speed and adaptability.
-グローバルな調査とケーススタディ ── Roche、Air France KLM、Swiss Railways、Swiss Casinos、Auckland Council @<bib>{1}、およびDunedin City Council ── によると、APOMとLAPを統合することで、市場に出すまでの時間を短縮し、最大80％のコスト削減とイノベーションのスループット向上を実現している。さらに、発注側と受託側の双方での満足度は10点満点中で9点に達している。@<w>{leadership}にとって、その必要性は明白である。@<w>{procurement}を価値創出サイクルの中核に組み込むことが、迅速で戦略的なピボット、より強固なレジリエンス、そしてスピードと適応力が重要となる市場における持続的な競争優位をもたらす。
+グローバルな調査とケーススタディ@<w>{-}Roche、Air France KLM、Swiss Railways、Swiss Casinos、Auckland Council @<bib>{1}、およびDunedin City Council@<w>{-}によると、APOMとLAPを統合することで、市場に出すまでの時間を短縮し、最大80％のコスト削減とイノベーションのスループット向上を実現している。さらに、発注側と受託側の双方での満足度は10点満点中で9点に達している。@<w>{leadership}にとって、その必要性は明白である。@<w>{procurement}を価値創出サイクルの中核に組み込むことが、迅速で戦略的なピボット、より強固なレジリエンス、そしてスピードと適応力が重要となる市場における持続的な競争優位をもたらす。
 
 #@# == The Strategic Context: Why Procurement Transformation Matters Now
 == 今、@<w>{procurement}に変革が求められる戦略的背景
@@ -183,7 +183,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 //image[2.LeanAgileProcurement][][scale=1.0]
 //{
 #@# Lean Agile Procurement
-Lean-Agile Procurement（アジャイルな@<w>{Procurement}）
+Lean-Agile Procurement（アジャイルな@<w>{procurement}）
 #@# * Product Definition
  * プロダクトの定義
 * Partner Preparation
@@ -203,51 +203,74 @@ LAPアプローチでは、契約の見直しスケジュールをあらかじ�
 
 //footnote[WorldCC][訳注: グローバルな商取引および契約管理の専門組織であり、ベストプラクティスの普及や業界調査を行っている。]
 
-== Understanding the Agile Product Operating Model (APOM): A Holistic Framework
+#@# == Understanding the Agile Product Operating Model (APOM): A Holistic Framework
+== アジャイルプロダクトオペレーティングモデル（APOM）の理解: 全体的なフレームワーク
 
-The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
+#@# The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
+アジャイルプロダクトオペレーティングモデル（APOM）@<bib>{7}は、現代の経済において、スピード、イノベーション、顧客価値を実現するための包括的な組織運営アプローチを表している。従来の職能別サイロ型組織やマトリクス型組織とは異なり、APOMは継続的な価値提供に最適化した統一されたシステムを構築するものである。
 
 //image[APOM][][scale=1.0]{
 //}
 
-=== The Four Pillars of APOM
+#@# === The Four Pillars of APOM
+=== APOMの4つの柱
 
-==== 1. Strategy: The "Why" - Outcome-Focused Direction
+#@# ==== 1. Strategy: The "Why" - Outcome-Focused Direction
+==== 1. @<w>{Strategy}: 「なぜ」@<w>{-}@<w>{outcome-focused}の方向性
 
-APOM strategy moves beyond traditional planning to embrace dynamic, evidence-based decision-making. Instead of 5-year strategic plans that become obsolete within months, APOM emphasizes outcome-driven goals that provide direction while allowing tactical flexibility.
+#@# APOM strategy moves beyond traditional planning to embrace dynamic, evidence-based decision-making. Instead of 5-year strategic plans that become obsolete within months, APOM emphasizes outcome-driven goals that provide direction while allowing tactical flexibility.
+APOMの@<w>{Strategy}は、従来の計画策定を超え、動的でエビデンスに基づく意思決定を取り入れるものである。数か月で陳腐化してしまう5か年計画に依存するのではなく、APOMは戦術的な柔軟性を保ちながら方向性を示す@<w>{outcome-driven}のゴールを重視している。
 
 ====[column]
-Key characteristics:
+#@# Key characteristics:
+@<w>{Strategy}の主な特徴:
 
- * Clear value propositions tied to customer outcomes
- * Measurable business objectives that guide daily decisions
- * Regular strategy reviews based on market feedback and performance data
- * Alignment between strategic goals and operational activities
- * Flexibility to pivot based on evidence and changing conditions
+#@#  * Clear value propositions tied to customer outcomes
+ * 顧客アウトカムに結びついた明確な@<w>{value proposition}
+#@#  * Measurable business objectives that guide daily decisions
+ * 日々の意思決定を導く計測可能なビジネス目標
+#@#  * Regular strategy reviews based on market feedback and performance data
+ * 市場からのフィードバックや実績データに基づく定期的な戦略の見直し
+#@#  * Alignment between strategic goals and operational activities
+ * 戦略的ゴールと運営アクティビティの整合性
+#@#  * Flexibility to pivot based on evidence and changing conditions
+ * エビデンスや変化する状況に基づいてピボットできる柔軟性
 
 ====[/column]
 
-@<b>{Procurement Implications}: Supplier selection and contract structures must support strategic agility. This means moving to vendor relationships based on partnerships aligned with strategic outcomes. Building long term win-win partnerships and ecosystems of partnerships is a success enabler.
+#@# @<b>{Procurement Implications}: Supplier selection and contract structures must support strategic agility. This means moving to vendor relationships based on partnerships aligned with strategic outcomes. Building long term win-win partnerships and ecosystems of partnerships is a success enabler.
+@<wb>{procurement}@<b>{への影響}: @<w>{supplier}の選定および契約構造は、戦略的なアジリティを支えるものでなければならない。つまり、戦略的アウトカムと整合したパートナーシップに基づくベンダー関係へと移行することを意味する。長期的なWin-Winのパートナーシップやそれらを基盤とするエコシステムを構築することが、成功を支える@<w>{enabler}となる。
 
-==== 2. People: The "Who" - Empowered, Cross-Functional Teams
+#@# ==== 2. People: The "Who" - Empowered, Cross-Functional Teams
+==== 2. @<w>{People}: 「誰が」@<w>{-}権限を持つ@<w>{cross-functional}チーム
 
-APOM organizes people into stable, cross-functional teams with clear purpose and decision-making authority. These teams combine all the skills necessary to deliver value, reducing handoffs and enabling rapid response to opportunities and challenges.
+#@# APOM organizes people into stable, cross-functional teams with clear purpose and decision-making authority. These teams combine all the skills necessary to deliver value, reducing handoffs and enabling rapid response to opportunities and challenges.
+APOMは、人々を明確な目的と意思決定権限を持つ安定した@<w>{cross-functional}チームとして構成する。このチームは、価値を提供するために必要なあらゆるスキルを結集し、引き継ぎを減らし、機会や課題への迅速な対応を可能にする。
 
 ====[column]
-Team characteristics:
+#@# Team characteristics:
+チームの特徴:
 
- * Permanent team membership to build trust and working relationships
- * Clear accountability for specific outcomes and metrics
- * Authority to make decisions within defined boundaries
- * Regular skill development and cross-training
- * Direct access to customers and stakeholders
- * Teams extend beyond company boundaries, to include everyone in events
-
+#@#  * Permanent team membership to build trust and working relationships
+ * 信頼関係と共創的な関係を築くための恒常的なチームメンバーシップ
+#@#  * Clear accountability for specific outcomes and metrics
+ * 特定のアウトカムと@<w>{metrics}に対する明確な説明責任
+#@#  * Authority to make decisions within defined boundaries
+ * 定められた範囲内で意思決定を行える権限
+#@#  * Regular skill development and cross-training
+ * 定期的なスキル開発とクロストレーニング
+#@#  * Direct access to customers and stakeholders
+ * 顧客およびステークホルダーへの直接的なアクセス
+#@#  * Teams extend beyond company boundaries, to include everyone in events
+ * チームは企業の枠を超え、あらゆる関係者をイベントに巻き込む
 ====[/column]
 
-@<b>{Procurement Implications}: Procurement capability must be embedded within product teams, enabling them to understand their goals and constraints. The product team has ownership of all the partnerships in their organisation. This creates a cross-company organisation focussed on delivering on the Product Vision. The traditional model of centralized procurement making decisions in isolation becomes obsolete.
+#@# @<b>{Procurement Implications}: Procurement capability must be embedded within product teams, enabling them to understand their goals and constraints. The product team has ownership of all the partnerships in their organisation. This creates a cross-company organisation focussed on delivering on the Product Vision. The traditional model of centralized procurement making decisions in isolation becomes obsolete.
+@<wb>{procurement}@<b>{への影響}: @<w>{procurement}の能力はプロダクトチーム内に組み込まれ、チームが自らのゴールと制約を理解できるようにする必要がある。プロダクトチームは、自らの組織におけるすべてのパートナーシップに対してオーナーシップを発揮する。このことにより、プロダクトビジョンの実現に向けて全社的に連携した組織が形成される。従来のように、中央集権的な@<w>{procurement}部門が孤立して意思決定を行うモデルは、もはや時代遅れとなっている。
 
-==== 3. Structure: The "How" - Enabling Governance and Processes APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
+==== 3. Structure: The "How" - Enabling Governance and Processes 
+
+APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
 
 ====[column]
 Structural elements:
