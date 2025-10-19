@@ -6,7 +6,7 @@
 == 全体概要
 
 #@# In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
-現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新興技術に迅速に対応できるようになるのだ。
+現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになるのだ。
 
 #@# Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
 スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}@<w>{procurement}の機能を求めている。
@@ -40,22 +40,36 @@ Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦�
 
 ===[column]
 
-Several converging trends are reshaping the procurement landscape:
+#@# Several converging trends are reshaping the procurement landscape:
+いくつかの変化の動向が重なり合うことによって、@<w>{procurement}の状況が再形成されつつある。
 
-==== Digital Acceleration
+#@# ==== Digital Acceleration
+==== デジタルの加速
 
-The digital transformation of procurement processes has been underway for several years, but the future will see a significant acceleration in the adoption of e-procurement platforms and digital solutions. The need for greater efficiency, transparency, and real-time data drives this trend. It is essential that strategic sourcing professionals utilize increased automation and tooling to better deal with the increase in complex and uncertain procurement demands.
+#@# The digital transformation of procurement processes has been underway for several years, but the future will see a significant acceleration in the adoption of e-procurement platforms and digital solutions. The need for greater efficiency, transparency, and real-time data drives this trend. It is essential that strategic sourcing professionals utilize increased automation and tooling to better deal with the increase in complex and uncertain procurement demands.
+@<w>{procurement}プロセスのデジタル変革は、数年前から進行しているが、今後は、@<w>{e-procurement}@<fn>{e-procurement}プラットフォームやデジタルソリューションの導入がさらに加速していくだろう。より高い効率性、透明性、リアルタイムデータの活用が、この動向を後押ししている。戦略的な@<w>{sourcing}の@<w>{professional}は、複雑で不確実な@<w>{procurement}需要の増大に、より効果的に対応するために、自動化とツール活用を強化することが不可欠である。
 
-==== Cybersecurity Imperative
-According to BCI's Supply Chain Resilience Survey, "Cybersecurity and data breaches are the top threat to supply chains over the next 12 months and the next five years." @<bib>{4} And last year, Cybersecurity Ventures reported that "cybercrime is projected to cost $10.5 trillion in damages by the end of 2025". With new threat vectors appearing on a nearly daily basis, an inability to respond quickly can have a significant impact on an organization.
+#@# ==== Cybersecurity Imperative
+==== サイバーセキュリティの必然性
 
-==== Supplier Relationship Complexity
-From the 2023 State of Agile in Procurement global survey 31% of suppliers have to log into ten or more systems to do business with their most important customer, while 33% of suppliers believe that information needs to be easier to find (e.g. sustainability policies, compliance information) @<bib>{5}. There is increasing disruption by emerging factors: geopolitical decisions, changing regulation in areas including Environmental, Social, and Governance (ESG), and the impact of emerging technological developments.
+#@# According to BCI's Supply Chain Resilience Survey, "Cybersecurity and data breaches are the top threat to supply chains over the next 12 months and the next five years." @<bib>{4} And last year, Cybersecurity Ventures reported that "cybercrime is projected to cost $10.5 trillion in damages by the end of 2025". With new threat vectors appearing on a nearly daily basis, an inability to respond quickly can have a significant impact on an organization.
+BCIのサプライチェーンレジリエンス調査によると、「サイバーセキュリティとデータ侵害は、今後12か月および5年間におけるサプライチェーンへの最大の脅威である」@<bib>{4}。さらに昨年、Cybersecurity Venturesは「サイバー犯罪による損害額は2025年末までに10.5兆ドルに達すると予測されている」と報告している。新たな脅威ベクトルがほぼ毎日のように出現する状況では、迅速に対応できないことが組織に重大な影響を及ぼす可能性がある。
 
-==== Global Trade
-The changing shape of trade and the impact of tariffs and market dynamics are affecting the procurement and supply landscape. The increased uncertainty of supply and costs requires more frequent review and reevaluation of contracts to maintain successful business outcomes. Ensuring that supply chains are dynamic, flexible, and resilient will enable an organization's ability to quickly adapt.
+#@# ==== Supplier Relationship Complexity
+==== @<w>{supplier}関係の複雑化
+
+#@# From the 2023 State of Agile in Procurement global survey 31% of suppliers have to log into ten or more systems to do business with their most important customer, while 33% of suppliers believe that information needs to be easier to find (e.g. sustainability policies, compliance information) @<bib>{5}. There is increasing disruption by emerging factors: geopolitical decisions, changing regulation in areas including Environmental, Social, and Governance (ESG), and the impact of emerging technological developments.
+2023年版「State of Agile in Procurement」グローバル調査によると、@<w>{supplier}の31％が、最も重要な顧客との取引を行うために10以上のシステムへログインする必要がある一方で、33％の@<w>{supplier}が、必要な情報（例えば、サスティナビリティ方針やコンプライアンスの情報など）をより容易に見つけられるようにすべきだと考えている@<bib>{5}。さらに、地政学的な決定や、ESG（環境、社会、ガバナンス）を含む分野での規制の変化、新技術の登場による影響など、新たな要因による混乱が増大している。
+
+#@# ==== Global Trade
+==== グローバル貿易
+
+#@# The changing shape of trade and the impact of tariffs and market dynamics are affecting the procurement and supply landscape. The increased uncertainty of supply and costs requires more frequent review and reevaluation of contracts to maintain successful business outcomes. Ensuring that supply chains are dynamic, flexible, and resilient will enable an organization's ability to quickly adapt.
+貿易形態の変化や関税、市場動向の影響が、@<w>{procurement}および@<w>{supply}の状況に影響を与えている。@<w>{supply}とコストの不確実性が高まる中、成功するビジネスアウトカムを維持するためには、契約のより頻繁な見直しと再評価が求められている。サプライチェーンを動的で柔軟かつレジリエンスのあるものとして保つことが、組織が迅速に適応するための鍵となる。
 
 ===[/column]
+
+//footnote[訳註: e-procurement]{@<w>{e-procurement}（e-procurement）とは、インターネットや専用のオンラインシステムを利用して、企業が商品やサービスを調達するプロセスを指す。これにより、調達プロセスの効率化、コスト削減、透明性の向上が実現される。}
 
 == The Hidden Cost of Procurement and Product Disconnect
 
