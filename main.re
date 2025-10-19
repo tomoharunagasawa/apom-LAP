@@ -98,61 +98,110 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# @<b>{Quantified Impact}: A single client found that misused and unused purchasing software resulted in a calculated loss of $17 million/year, highlighting the substantial financial impact of procurement inefficiencies. This represents just one dimension of the total cost—when factoring in opportunity costs, innovation delays, and competitive disadvantages, the true impact is often 3-5 times larger.
 @<b>{定量的な影響}: ある単一のクライアント企業では、購入したソフトウェアの誤使用や未使用により、年間1,700万ドルもの損失が発生していることが判明した。これは、@<w>{procurement}の非効率性がもたらす多大な財務的な影響を示している。この数値は全体コストの一側面に過ぎず、機会損失、イノベーションの遅延、競争上の不利などを考慮に入れると、その実際の影響はしばしば3〜5倍にもなる。
 
-== The Shift from Projects to Products: A Fundamental Business Model Evolution
+#@# == The Shift from Projects to Products: A Fundamental Business Model Evolution
+== ビジネスモデルの本質的な進化に伴うプロジェクトからプロダクトへの転換 
 
-Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
-
-
-//tsize[80,80]
-//table[]{
-@<b>{Project-Based Model}	@<b>{Product-Based Model}
-
-----------------------------
-Requirements are known and fixed upfront	Adaptive approaches that evolve with learning and market feedback
-
-Success is measured by adherence to specifications and delivery on time/budget	Success measured by business outcomes achieved and customer value delivered
-
-Risk is managed through detailed contracts, extensive documentation, and oversight	Risk managed through collaboration, rapid experimentation, and continuous feedback
-
-Vendor relationships are transactional: “We tell you what to build, you build it”	Strategic partnerships that enable co-innovation and shared value creation
-
-Change is expensive and undesirable	Change is expected and embraced as learning
-
-Value is delivered at the end of the project lifecycle	Value is delivered continuously throughout the development cycle
-
-//}
-
-Changing Context requires a different approach
-
-The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
+#@# Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
+先進的な組織は、価値を提供する方法そのものを根本から再構築している。すなわち、@<w>{project-based}のウォーターフォール型アプローチから、@<w>{product-centric}の反復型モデルへと移行しているのだ。この変革は、過去10年間で最も重要な組織的な変化のひとつであり、その影響はソフトウェア開発にとどまらず、ビジネス運営のあらゆる側面に及んでいる。
 
 //tsize[80,80]
 //table[]{
-@<b>{Traditional Supplier Management}	@<b>{Agile Partner Management}
+#@# @<b>{Project-Based Model}	@<b>{Product-Based Model}
+@<wb>{project-based}@<b>{モデル}	@<wb>{product-based}@<b>{モデル}
 ----------------------------
-Seeks clear demarcation between customer and supplier, to resolve questions of liability and warranty.	Seeks a collaborative learning culture to achieve mutual success and sustainability with continuous feedback at its core.
-
-After the partnership is defined, progress is monitored without consideration of changing objectives or emerging learning.	An agile collaboration is continuously evaluated for validity and is updated as new information is discovered (emergent learning).
-
-Relationships are defined with rigid notice periods ranging from months to year, and are automatically extended.	Collaboration can be changed (expanded, reduced) or stopped by both parties at any time and does not require a notice period.
-
-Relationships are based on the supplier’s ability to deliver specific outputs.	Collaboration is based on the business outcomes and impact that is collectively achieved
-
-In traditional partnerships each party develops alone. The customer should benefit from any changes. Changing practices is perceived as an obstacle. 	In agile partnerships all parties want to improve together, embracing changing conditions and shared learning.
-
+#@# Requirements are known and fixed upfront	Adaptive approaches that evolve with learning and market feedback
+@<w>{requirement}が事前に既知であり、固定されている	学習と市場からのフィードバックに基づいて進化する適応的アプローチである
+#@# Success is measured by adherence to specifications and delivery on time/budget	Success measured by business outcomes achieved and customer value delivered
+仕様への準拠や、期限と予算内での提供によって成功を計測する	達成したビジネスアウトカムと提供した顧客価値によって成功を計測する
+#@# Risk is managed through detailed contracts, extensive documentation, and oversight	Risk managed through collaboration, rapid experimentation, and continuous feedback
+詳細な契約事項、膨大なドキュメント、管理監督によりリスクを管理する	@<w>{collaboration}、迅速な実験、継続的なフィードバックによりリスクを管理する
+#@# Vendor relationships are transactional: “We tell you what to build, you build it”	Strategic partnerships that enable co-innovation and shared value creation
+ベンダー関係が取引中心である「何を作るかを発注し、ベンダーがそれを作る」	共創的イノベーションと価値の共創を可能にする戦略的パートナーシップ
+#@# Change is expensive and undesirable	Change is expected and embraced as learning
+変更は高コストで望ましくないものである	変更は学習の一環として想定され、受け入れるものである
+#@# Value is delivered at the end of the project lifecycle	Value is delivered continuously throughout the development cycle
+価値はプロジェクトライフサイクル終盤で提供するものである	価値は開発サイクル全体を通じて継続的に提供されるものである
 //}
 
-In a context where there is significant uncertainty, an approach that integrates regular reflection and updates will embed responsiveness into it. The Agile Product Operating Model does this and requires flexibility and speed of response from the procurement process.
+#@# === Changing Context requires a different approach
+=== 変化する状況には異なるアプローチが必要
 
-The image below highlights the speed of the LAP approach over the traditional approach.
+#@# The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
+変化する状況は、単なる@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
 
-//image[1.TraditionalProcurement][][scale=0.7]{
+//tsize[80,80]
+//table[]{
+#@# @<b>{Traditional Supplier Management}	@<b>{Agile Partner Management}
+@<b>{従来型の}@<wb>{supplier}@<b>{管理}	@<b>{アジャイルでのパートナー管理}
+----------------------------
+#@# Seeks clear demarcation between customer and supplier, to resolve questions of liability and warranty.	Seeks a collaborative learning culture to achieve mutual success and sustainability with continuous feedback at its core.
+顧客と@<w>{supplier}間に明確な線引きを定め、責任や保証の問題を解決しようとする	相互の成功と持続可能性を実現するために、継続的なフィードバックを中心とした@<w>{collaborative}な学習文化を追求する
+#@# After the partnership is defined, progress is monitored without consideration of changing objectives or emerging learning.	An agile collaboration is continuously evaluated for validity and is updated as new information is discovered (emergent learning).
+パートナーシップを定義した後は、変化する目標や新たな学びを考慮せずに進捗を監視する	アジャイルな@<w>{collaboration}は、その妥当性を継続的に評価し、新たな情報（学び）を得るたびに更新する
+#@# Relationships are defined with rigid notice periods ranging from months to year, and are automatically extended.	Collaboration can be changed (expanded, reduced) or stopped by both parties at any time and does not require a notice period.
+関係性は数か月から数年に及ぶ厳格な告知期間で定め、自動的に延長する	@<w>{collaboration}は、双方がいつでも変更（拡大、縮小）または終了でき、告知期間を必要としない
+#@# Relationships are based on the supplier’s ability to deliver specific outputs.	Collaboration is based on the business outcomes and impact that is collectively achieved
+関係性は、@<w>{supplier}が特定のアウトプットを提供する能力に基づいている	@<w>{collaboration}は、共同で達成するビジネスアウトカムとそのインパクトに基づいている
+#@# In traditional partnerships each party develops alone. The customer should benefit from any changes. Changing practices is perceived as an obstacle. 	In agile partnerships all parties want to improve together, embracing changing conditions and shared learning.
+従来のパートナーシップでは、当事者がそれぞれに独立して活動し、変更による恩恵はその顧客のみが享受する。慣行の変更は障害と見なされる	アジャイルなパートナーシップでは、すべての関係者が共に改善を目指し、変化する状況と共有する学びを受け入れようとする
 //}
 
-//image[2.LeanAgileProcurement][][scale=0.7]{
+#@# In a context where there is significant uncertainty, an approach that integrates regular reflection and updates will embed responsiveness into it. The Agile Product Operating Model does this and requires flexibility and speed of response from the procurement process.
+不確実性が大きい状況においては、定期的に振り返り、更新を組み込むアプローチによって、対応力を組織の中に根付かせることができる。アジャイルプロダクトオペレーティングモデルは、まさにこれを実現し、@<w>{procurement}プロセスに柔軟性と迅速な対応力を必要とする。
+
+#@# The image below highlights the speed of the LAP approach over the traditional approach.
+以下の図は、従来のアプローチと比較した際のLAP（Lean-Agile Procurement）アプローチのスピードを示している。
+
+//image[1.TraditionalProcurement][][scale=1.0]
+//{
+#@# Traditional Procurement
+従来型の@<w>{procurement}
+#@# Start
+開始
+#@#  * Requirement Definition
+ * @<w>{requirement}定義
+#@#  * Contract notice
+ * 契約告知
+#@#  * Request for Proposal
+ * 提案依頼（RFP）
+#@#  * Receipt of Tenders
+ * 入札の受領
+#@#  * Shortlist of Tenders
+ * 入札候補の絞り込み
+#@#  * Supplier Selection
+ * @<w>{supplier}の選定
+#@#  * Agreement Negotiations
+ * 契約交渉
+#@#  * Implementation
+ * 実装
+#@#  Elapsed time to Implement
+実装までの期間: 
+#@#  ~11 months
+約11か月 
 //}
 
-The contract review schedule is agreed in the LAP approach, whereas World Commerce & Contracting research found that more than 40% of negotiated business agreements are never reviewed or renegotiated after signing.
+//image[2.LeanAgileProcurement][][scale=1.0]
+//{
+#@# Lean Agile Procurement
+Lean-Agile Procurement（アジャイルな@<w>{Procurement}）
+#@# * Product Definition
+ * プロダクトの定義
+* Partner Preparation
+ * パートナーの準備
+#@# * Big Room Event
+ * ビッグルームイベント
+#@# * Implementation
+ * 実装
+#@# Elapsed time to Implement
+実装までの期間:
+#@# Days to Weeks
+数日から数週間
+//}
+
+#@# The contract review schedule is agreed in the LAP approach, whereas World Commerce & Contracting research found that more than 40% of negotiated business agreements are never reviewed or renegotiated after signing.
+LAPアプローチでは、契約の見直しスケジュールをあらかじめ合意する。一方、World Commerce & Contracting（WorldCC）@<fn>{WorldCC}の調査によれば、契約締結後に見直しや再交渉が一度も行われないビジネス契約が40％を超えることが報告されている。
+
+//footnote[WorldCC][訳注: グローバルな商取引および契約管理の専門組織であり、ベストプラクティスの普及や業界調査を行っている。]
 
 == Understanding the Agile Product Operating Model (APOM): A Holistic Framework
 
