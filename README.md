@@ -32,8 +32,7 @@ GitHub Issuesで指摘してください。
 
 ### PDFの共有
  * [原文](https://www.scrum.org/resources/accelerating-value-integrating-lean-agile-procurement-agile-product-operating-model)
- * [最新のレビューPDF](<tbd>>)
-   * レイアウトはRe:Viewで吐き出した仮のものです。最終版のPDFとは異なりますので、レイアウトについてのご指摘は不要です（よくわからなければ、遠慮なくご指摘ください）
+ * [最新のレビューPDF](https://evangelism-my.sharepoint.com/:b:/g/personal/nagasawa_servantworks_co_jp/EaWLdmoZ7UZJgFJn42_hkAMBMb-e2MUAtTYlZF5UnTQVhQ?e=INjLnn)
    * 図版の内容もレビューしていただきたいです。
    * 結構、頻繁にPDFは更新されます（日に数回レベル）。
 
