@@ -163,7 +163,7 @@ breakable, % ページ分断の許容
 enhanced jigsaw, % 分断時に上下罫線を切り取り
 pad at break=5.5mm, % 分断されたときの上下アキ。デフォルトは3.5mm
 boxrule=0.0mm, % 線幅。toprule,bottomrule,leftrule,rightruleで個別指定も可
-before upper={\parindent\reviewtcb@zw{1}}, % 内容の1行目を字下げ
+before upper={\setlength{\parindent}{0pt}\noindent\ignorespaces}, % 内容の1行目を字下げしない
 fontupper={\userelfont\sffamily\gtfamily}, % 本文をゴシック体にする
 #1} % オプション値で追加・上書き可能
 
@@ -176,7 +176,7 @@ breakable,
 enhanced jigsaw,
 pad at break=4.5mm,
 boxrule=.25mm,
-before upper={\parindent\reviewtcb@zw{1}},
+before upper={\setlength{\parindent}{0pt}\noindent\ignorespaces}, % 内容の1行目を字下げしない
 coltitle=black, % キャプション文字色
 colbacktitle=white, % キャプション背景
 fonttitle={\reviewtcb@gtfamily\sffamily\bfseries},
