@@ -34,7 +34,7 @@ Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦�
 グローバルにおけるビジネス環境は、根本的な転換を遂げている。組織の82％が、短期的なニーズと長期の戦略的変革のバランスを取ることに課題を抱えていると回答している@<bib>{2}。この迅速な対応と長期的な計画との間に生じる緊張関係は、従来のアプローチでは対応できない@<w>{procurement}機能への新たな要求を生み出している。
 
 #@# Organizations are moving to a more product-focused model, which is where the Agile Product Operating Model (APOM) is an effective approach. A key enabler of the structure to support the product approach is to have procurement involved throughout, helping teams discover alternatives to building a product. Procurement needs to integrate at both strategic and value stream levels effectively. Early and continued engagement will shape the enterprise, portfolio and team decisions and speed of delivery.
-組織は、より@<w>{product-focused}のモデルへと移行しており、ここで効果的なアプローチとなるのがアジャイルプロダクトオペレーティングモデル（APOM）である。プロダクト指向のアプローチを支える構造の主要な@<w>{enabler}は、@<w>{procurement}が全体を通じて関与し、チームがプロダクトを構築する以外の選択肢を見出すのを支援する役目を果たす。@<w>{procurement}は、戦略レベルと@<w>{value stream}レベルの両方で効果的に統合される必要がある。初期段階から継続的に関与することが、企業、ポートフォリオ、チームにおける意思決定と提供スピードを形づくる。
+組織は、より@<w>{product-focused}のモデルへと移行しており、ここで効果的なアプローチとなるのがアジャイルプロダクトオペレーティングモデル（APOM）である。プロダクト指向のアプローチを支える構造の主要な@<w>{enabler}は、@<w>{procurement}が全体を通じて関与し、チームがプロダクトを構築する以外の選択肢を見出すのを支援する役割を果たす。@<w>{procurement}は、戦略レベルと@<w>{value stream}レベルの両方で効果的に統合される必要がある。初期段階から継続的に関与することが、企業、ポートフォリオ、チームにおける意思決定と提供スピードを形づくる。
 
 #@# @<b>{Real-World Impact}: Consider Netflix's transformation from a DVD-bymail service to a streaming platform to a content creator. Each phase required different supplier relationships, technologies, and contractual arrangements. Traditional procurement would have locked them into multi-year contracts with DVD manufacturers just as the market was shifting to streaming. Agile procurement enabled rapid pivots and strategic partnerships that defined their success.
 @<b>{現実世界での影響}: 例えば、NetflixがDVDの郵送サービスからストリーミングプラットフォーム、さらにコンテンツ制作へと変革していった過程を考えてみよう。それぞれのフェーズでは、異なる@<w>{supplier}関係、テクノロジー、契約形態が求められた。従来型の@<w>{procurement}であれば、市場がストリーミングへと移行しつつあるまさにその時に、DVD製造業者との複数年契約に縛られていたことだろう。アジャイルな@<w>{procurement}は、こうした急速なピボットや戦略的なパートナーシップを可能にし、それこそがNetflixの成功を形づくったのである。
@@ -296,7 +296,7 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 ====[/column]
 
 #@# @<b>{Procurement Implications}: Procurement governance must shift from control-based to enablement-based approaches. The central procurement team provides the constraints that the product team is required to operate in. This requires new contract models, streamlined approval processes, and collaborative tools that support rapid decision-making. This improves compliance and auditability through earlier engagement and increased transparency.
-@<wb>{procurement}@<b>{への影響}: @<w>{procurement}のガバナンスは、@<w>{control-based}のアプローチから@<w>{enablement-based}のアプローチへと転換しなければならない。中央集中的な@<w>{procurement}チームは、プロダクトチームが活動するための制約を提示する役目を担う。この転換には、新しい契約モデル、効率化した承認プロセス、迅速な意思決定を支援する@<w>{collaborative}なツールが求められる。これにより、初期段階からの関与と透明性の向上を通じて、コンプライアンスと監査可能性の両方が改善される。
+@<wb>{procurement}@<b>{への影響}: @<w>{procurement}のガバナンスは、@<w>{control-based}のアプローチから@<w>{enablement-based}のアプローチへと転換しなければならない。中央集中的な@<w>{procurement}チームは、プロダクトチームが活動するための制約を提示する役割を担う。この転換には、新しい契約モデル、効率化した承認プロセス、迅速な意思決定を支援する@<w>{collaborative}なツールが求められる。これにより、初期段階からの関与と透明性の向上を通じて、コンプライアンスと監査可能性の両方が改善される。
 
 #@# ==== 4. Value Cycle: The "What" - Continuous Discovery and Delivery
 ==== 4. @<w>{Value Cycle}: 「何を」@<w>{-}継続的な発見と提供
@@ -326,7 +326,7 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 == APOMにおける@<w>{procurement}の進化
 
 #@# Traditional procurement operates at the periphery of value creation—sourcing inputs for predetermined activities. In APOM, procurement becomes integral to all four pillars:
-従来の@<w>{procurement}は、あらかじめ決められたアクティビティに必要なインプットを外部から確保するという、価値創出の周縁で機能してきた。APOMにおいて、@<w>{procurement}は4つの柱すべてに統合され、その中核となる役目を果たすことになる。
+従来の@<w>{procurement}は、あらかじめ決められたアクティビティに必要なインプットを外部から確保するという、価値創出の周縁で機能してきた。APOMにおいて、@<w>{procurement}は4つの柱すべてに統合され、その中核となる役割を果たすことになる。
 
 ===[column]
 
@@ -341,9 +341,11 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 
 ===[/column]
 
-== Introducing Lean-Agile Procurement: A Strategic Transformation
+#@# == Introducing Lean-Agile Procurement: A Strategic Transformation
+== 戦略的な変革をもたらすLean-Agile Procurementの導入
 
-Lean-Agile Procurement (LAP) represents a fundamental paradigm shift from command-and-control sourcing to outcome-focused, collaboration-centric procurement. This transformation goes beyond process improvement to reimagine procurement's role in value creation. Early supplier involvement does not remove competitive fairness; rather, it increases cultural, human and solution fit and reduces costly rework and effective procurement - you are buying the right thing from the right people.
+#@# Lean-Agile Procurement (LAP) represents a fundamental paradigm shift from command-and-control sourcing to outcome-focused, collaboration-centric procurement. This transformation goes beyond process improvement to reimagine procurement's role in value creation. Early supplier involvement does not remove competitive fairness; rather, it increases cultural, human and solution fit and reduces costly rework and effective procurement - you are buying the right thing from the right people.
+Lean-Agile Procurement（LAP）は、指揮命令型の@<w>{sourcing}から、@<w>{outcome-focused}で@<w>{collaboration}中心の@<w>{procurement}への根本的なパラダイムシフトを表している。この変革は、単なるプロセス改善を超え、価値創出における@<w>{procurement}の役割そのものを再構築するものである。初期段階から@<w>{supplier}が関与することは、競争の公平性を損なうものではなく、むしろ文化的、人的な適合性、ソリューションの整合性を高め、手戻りのコストを削減し、効果的な@<w>{procurement}を実現する。つまり、適切な相手から適切なものを入手することが可能になるのだ。
 
 === The Philosophy Behind LAP
 
