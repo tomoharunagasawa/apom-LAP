@@ -238,3 +238,18 @@ fonttitle={\textsf{\userelfont\sffamily\gtfamily}},
 title={#1},
 fontupper={\textsf{\userelfont\sffamily\gtfamily}}, % 本文をゴシック体にする
 #2}
+
+% 表の背景色を変える
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{review-custom}[2025/10/20 Table background color only]
+
+\RequirePackage[table]{xcolor}
+\RequirePackage{etoolbox}
+
+% 添付の色（Material Blue Grey 200 相当）
+\definecolor{ReviewTableBG}{HTML}{C6E6EC}
+
+% 罫線の色はデフォルト（黒）のまま。太さ等は変更しない
+% Re:VIEWの //table が内部で使う tabular/longtable に一括適用
+\AtBeginEnvironment{tabular}{\rowcolors{1}{ReviewTableBG}{ReviewTableBG}}
+\AtBeginEnvironment{longtable}{\rowcolors{1}{ReviewTableBG}{ReviewTableBG}}
