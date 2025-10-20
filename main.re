@@ -11,7 +11,7 @@
 //footnote[Procurement][訳注: 本ドキュメントにおける「procurement」は単なる購買や発注ではなく、戦略的ソーシング、契約の共創、パートナーとの協働を含む広い概念を指す。LAPではパートナー管理、提案・契約の共創が中核であり、アウトカムに整合したパートナーシップの設計と適応的な契約運用が重視される。]
 
 #@# Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
-スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}@<w>{procurement}の機能を求めている。
+スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}な@<w>{procurement}の能力を求めている。
 
 #@# The Agile Product Operating Model (APOM) is a way of structuring how an organization delivers value by shifting from project-based to product-based delivery. APOM provides a blueprint for organizing around products using four interdependent pillars: Strategy, People, Structure, and Value Cycle.
 アジャイルプロダクトオペレーティングモデル（APOM: Agile Product Operating Model）は、組織が価値を提供する方法を、@<w>{project-based}から@<w>{product-based}の提供へと転換することによって構造化するためのアプローチである。APOMは、@<w>{Strategy}（Strategy）、@<w>{People}（People）、@<w>{Structure}（Structure）、@<w>{Value Cycle}（Value Cycle）という相互に依存する4つの柱を用いて、プロダクトを中心に組織を構成するための@<w>{blueprint}を提供する。
