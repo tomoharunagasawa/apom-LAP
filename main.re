@@ -268,38 +268,55 @@ APOMは、人々を明確な目的と意思決定権限を持つ安定した@<w>
 #@# @<b>{Procurement Implications}: Procurement capability must be embedded within product teams, enabling them to understand their goals and constraints. The product team has ownership of all the partnerships in their organisation. This creates a cross-company organisation focussed on delivering on the Product Vision. The traditional model of centralized procurement making decisions in isolation becomes obsolete.
 @<wb>{procurement}@<b>{への影響}: @<w>{procurement}の能力はプロダクトチーム内に組み込まれ、チームが自らのゴールと制約を理解できるようにする必要がある。プロダクトチームは、自らの組織におけるすべてのパートナーシップに対してオーナーシップを発揮する。このことにより、プロダクトビジョンの実現に向けて全社的に連携した組織が形成される。従来のように、中央集権的な@<w>{procurement}部門が孤立して意思決定を行うモデルは、もはや時代遅れとなっている。
 
-==== 3. Structure: The "How" - Enabling Governance and Processes 
+#@# ==== 3. Structure: The "How" - Enabling Governance and Processes
+==== 3. @<w>{Structure}: 「どのように」@<w>{-}ガバナンスとプロセスを支える仕組み
 
-APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
+#@# APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
+APOMの@<w>{Structure}は、管理ではなく支援を重視する。硬直した方針や承認プロセスに頼るのではなく、チームが迅速に動けるようにしつつ、整合性とリスク管理を維持するためのガードレールを提供する。
 
 ====[column]
-Structural elements:
+#@# Structural elements:
+仕組みの要素:
 
- * Lightweight governance focused on outcomes rather than activities
- * Clear decision rights and escalation paths
- * Standardized tools and processes that enhance rather than constrain
- * Transparent communication and information sharing
- * Continuous process improvement based on team feedback
+#@#  * Lightweight governance focused on outcomes rather than activities
+ * アクティビティではなく、アウトカムに焦点を当てた軽量なガバナンス
+#@#  * Clear decision rights and escalation paths
+ * 明確な意思決定権限とエスカレーション経路
+#@#  * Standardized tools and processes that enhance rather than constrain
+ * 制約ではなく、チームを支援・強化するための標準化したツールとプロセス
+#@#  * Transparent communication and information sharing
+ * 透明性の高いコミュニケーションと情報の共有
+#@#  * Continuous process improvement based on team feedback
+ * チームからのフィードバックに基づく継続的なプロセス改善
 
 ====[/column]
 
-@<b>{Procurement Implications}: Procurement governance must shift from control-based to enablement-based approaches. The central procurement team provides the constraints that the product team is required to operate in. This requires new contract models, streamlined approval processes, and collaborative tools that support rapid decision-making. This improves compliance and auditability through earlier engagement and increased transparency.
+#@# @<b>{Procurement Implications}: Procurement governance must shift from control-based to enablement-based approaches. The central procurement team provides the constraints that the product team is required to operate in. This requires new contract models, streamlined approval processes, and collaborative tools that support rapid decision-making. This improves compliance and auditability through earlier engagement and increased transparency.
+@<wb>{procurement}@<b>{への影響}: @<w>{procurement}のガバナンスは、@<w>{control-based}のアプローチから@<w>{enablement-based}のアプローチへと転換しなければならない。中央集中的な@<w>{procurement}チームは、プロダクトチームが活動するための制約を提示する役目を担う。この転換には、新しい契約モデル、効率化した承認プロセス、迅速な意思決定を支援する@<w>{collaborative}なツールが求められる。これにより、初期段階からの関与と透明性の向上を通じて、コンプライアンスと監査可能性の両方が改善される。
 
-==== 4. Value Cycle: The "What" - Continuous Discovery and Delivery 
+#@# ==== 4. Value Cycle: The "What" - Continuous Discovery and Delivery
+==== 4. @<w>{Value Cycle}: 「何を」@<w>{-}継続的な発見と提供
 
-The value cycle represents the engine of APOM—the continuous loop of discovering customer needs, delivering solutions, and operating products that generate ongoing value. This cycle emphasizes learning, adaptation, and continuous improvement.
+#@# The value cycle represents the engine of APOM—the continuous loop of discovering customer needs, delivering solutions, and operating products that generate ongoing value. This cycle emphasizes learning, adaptation, and continuous improvement.
+@<w>{Value Cycle}は、APOMの中核となる原動力であり、顧客ニーズの発見、ソリューションの提供、継続的に価値を生み出すプロダクトの運用という循環を絶えず繰り返す過程を表している。このサイクルは、学習、適応、継続的改善を重視している。
 
 ====[column]
-Value cycle phases:
+#@# Value cycle phases:
+@<w>{Value Cycle}のフェーズ:
 
- * @<b>{Discovery}: Understanding customer needs, market opportunities, and technical possibilities
- * @<b>{Delivery}: Building and releasing solutions that address discovered needs
- * @<b>{Operations}: Running products, gathering feedback, and identifying optimization opportunities
- * @<b>{Learning}: Analyzing results, extracting insights, and informing future cycles
+#@#  * @<b>{Discovery}: Understanding customer needs, market opportunities, and technical possibilities
+ * @<b>{発見（ディスカバリー）}: 顧客ニーズ、市場機会、技術的可能性を理解する
+#@#  * @<b>{Delivery}: Building and releasing solutions that address discovered needs
+ * @<b>{提供（デリバリー）}: 発見したニーズに対応するソリューションを構築し、リリースする
+#@#  * @<b>{Operations}: Running products, gathering feedback, and identifying optimization opportunities
+ * @<b>{運用（オペレーション）}: プロダクトを運用し、フィードバックを収集し、最適化の機会を見つけ出す
+#@#  * @<b>{Learning}: Analyzing results, extracting insights, and informing future cycles
+ * @<b>{学習（ラーニング）}: 結果を分析し、インサイトを導き出し、次のサイクルに活かす
 
 ====[/column]
 
-@<b>{Procurement Implications}: Partners must be integrated into the entire value cycle, from discovery to operations. All external parties are treated like internal staff. This collaboration is defined on the LAP canvas. This requires new forms of collaboration (using more collaborative meeting approaches like the Big Room Event @<bib>{8}, regular engagement in product reviews, more frequent collaborative review of contracts), shared metrics, and adaptive contracting approaches.
+#@# @<b>{Procurement Implications}: Partners must be integrated into the entire value cycle, from discovery to operations. All external parties are treated like internal staff. This collaboration is defined on the LAP canvas. This requires new forms of collaboration (using more collaborative meeting approaches like the Big Room Event @<bib>{8}, regular engagement in product reviews, more frequent collaborative review of contracts), shared metrics, and adaptive contracting approaches.
+@<wb>{procurement}@<b>{への影響}: パートナーは、発見から運用に至る@<w>{Value Cycle}全体に統合されなければならない。すべての外部関係者も、内部メンバーと同等に扱われる。この@<w>{collaboration}は、LAP Canvas上で明確にする。これを実現するためには、新しい形態の@<w>{collaboration}（Big Room Event@<bib>{8}のような、より@<w>{collaborative}なミーティングのアプローチ、定期的なプロダクトレビュー、より頻繁な契約の@<w>{collaborative}な見直しなど）、共有する@<w>{metrics}、適応力のある契約アプローチが必要となる。
 
 == Procurement's Evolution Within APOM
 
