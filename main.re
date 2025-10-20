@@ -243,7 +243,7 @@ APOMの@<w>{Strategy}は、従来の計画策定を超え、動的でエビデ�
 ====[/column]
 
 #@# @<b>{Procurement Implications}: Supplier selection and contract structures must support strategic agility. This means moving to vendor relationships based on partnerships aligned with strategic outcomes. Building long term win-win partnerships and ecosystems of partnerships is a success enabler.
-@<wb>{procurement}@<b>{への影響}: @<w>{supplier}の選定および契約構造は、戦略的なアジリティを支えるものでなければならない。つまり、戦略的アウトカムと整合したパートナーシップに基づくベンダー関係へと移行することを意味する。長期的なWin-Winのパートナーシップやそれらを基盤とするエコシステムを構築することが、成功を支える@<w>{enabler}となる。
+@<wb>{procurement}@<b>{への影響}: @<w>{supplier}の選定および契約構造は、戦略的なアジリティを支えるものでなければならない。つまり、@<w>{strategic outcome}と整合したパートナーシップに基づくベンダー関係へと移行することを意味する。長期的なWin-Winのパートナーシップやそれらを基盤とするエコシステムを構築することが、成功を支える@<w>{enabler}となる。
 
 #@# ==== 2. People: The "Who" - Empowered, Cross-Functional Teams
 ==== 2. @<w>{People}: 「誰が」@<w>{-}権限を持つ@<w>{cross-functional}チーム
@@ -276,7 +276,7 @@ APOMは、人々を明確な目的と意思決定権限を持つ安定した@<w>
 ==== 3. @<w>{Structure}: 「どのように」@<w>{-}ガバナンスとプロセスを支える仕組み
 
 #@# APOM structure emphasizes enablement over control. Instead of rigid policies and approval processes, structure provides guardrails that enable teams to move quickly while maintaining alignment and managing risk.
-APOMの@<w>{Structure}は、管理ではなく支援を重視する。硬直した方針や承認プロセスに頼るのではなく、チームが迅速に動けるようにしつつ、整合性とリスク管理を維持するためのガードレールを提供する。
+APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直した方針や承認プロセスに頼るのではなく、チームが迅速に動けるようにしつつ、整合性とリスク管理を維持するためのガードレールを提供する。
 
 ====[column]
 #@# Structural elements:
@@ -322,16 +322,22 @@ APOMの@<w>{Structure}は、管理ではなく支援を重視する。硬直し�
 #@# @<b>{Procurement Implications}: Partners must be integrated into the entire value cycle, from discovery to operations. All external parties are treated like internal staff. This collaboration is defined on the LAP canvas. This requires new forms of collaboration (using more collaborative meeting approaches like the Big Room Event @<bib>{8}, regular engagement in product reviews, more frequent collaborative review of contracts), shared metrics, and adaptive contracting approaches.
 @<wb>{procurement}@<b>{への影響}: パートナーは、発見から運用に至る@<w>{Value Cycle}全体に統合されなければならない。すべての外部関係者も、内部メンバーと同等に扱われる。この@<w>{collaboration}は、@<w>{LAP Canvas}上で明確にする。これを実現するためには、新しい形態の@<w>{collaboration}（@<w>{Big Room Event}@<bib>{8}のような、より@<w>{collaborative}なミーティングのアプローチ、定期的なプロダクトレビュー、より頻繁な契約の@<w>{collaborative}な見直しなど）、共有する@<w>{metrics}、適応力のある契約アプローチが必要となる。
 
-== Procurement's Evolution Within APOM
+#@# == Procurement's Evolution Within APOM
+== APOMにおける@<w>{procurement}の進化
 
-Traditional procurement operates at the periphery of value creation—sourcing inputs for predetermined activities. In APOM, procurement becomes integral to all four pillars:
+#@# Traditional procurement operates at the periphery of value creation—sourcing inputs for predetermined activities. In APOM, procurement becomes integral to all four pillars:
+従来の@<w>{procurement}は、あらかじめ決められたアクティビティに必要なインプットを外部から確保するという、価値創出の周縁で機能してきた。APOMにおいて、@<w>{procurement}は4つの柱すべてに統合され、その中核となる役目を果たすことになる。
 
 ===[column]
 
- * @<b>{Strategic Integration}: Procurement decisions made by the business directly impact strategic outcomes. Supplier capabilities, partnership quality, and contract flexibility all influence the organization's ability to achieve strategic goals.
- * @<b>{Team Collaboration}: Procurement professionals become embedded partners with product teams, understanding their specific needs and constraints while bringing supplier insights and market knowledge.
- * @<b>{Governance Enablement}: Procurement creates structures that enable rapid decision-making and adaptation while maintaining appropriate controls and risk management.
- * @<b>{Value Cycle Participation}: Suppliers become active participants in discovery, delivery, and operations, requiring new forms of collaboration and shared accountability.
+#@#  * @<b>{Strategic Integration}: Procurement decisions made by the business directly impact strategic outcomes. Supplier capabilities, partnership quality, and contract flexibility all influence the organization's ability to achieve strategic goals.
+ * @<b>{戦略的統合}: ビジネスによって行われる@<w>{procurement}の意思決定は、@<w>{strategic outcome}に直接影響を及ぼす。@<w>{supplier}の能力、パートナーシップの質、契約の柔軟性は、すべて、組織が戦略的ゴールを達成できるかどうかを左右する。
+#@#  * @<b>{Team Collaboration}: Procurement professionals become embedded partners with product teams, understanding their specific needs and constraints while bringing supplier insights and market knowledge.
+ * @<b>{チームのコラボレーション}: @<w>{procurement}の@<w>{professional}は、プロダクトチームに組み込まれたパートナーとなり、@<w>{supplier}のインサイトや市場ナレッジを提供しながら、チーム固有のニーズや制約を理解する。
+#@#  * @<b>{Governance Enablement}: Procurement creates structures that enable rapid decision-making and adaptation while maintaining appropriate controls and risk management.
+ * @<b>{ガバナンスの支援}: @<w>{procurement}は、適切な制御とリスク管理を維持しつつ、迅速な意思決定と適応を可能にする仕組みを構築する。
+#@#  * @<b>{Value Cycle Participation}: Suppliers become active participants in discovery, delivery, and operations, requiring new forms of collaboration and shared accountability.
+ * @<wb>{Value Cycle}@<b>{への参画}: @<w>{supplier}は、発見、提供、運用の各フェーズにおいて積極的な参加者となり、新しい形の@<w>{collaboration}と説明責任の共有が求められる。
 
 ===[/column]
 
