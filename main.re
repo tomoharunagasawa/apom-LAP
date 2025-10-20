@@ -422,22 +422,32 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# @<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
  * @<i>{適応力のある戦略的対応}: 市場環境や顧客からのフィードバックに応じてAPOMの戦略が変化した場合、LAPの適応力のある契約アプローチによって、長期的な再交渉サイクルを経ることなく、@<w>{supplier}や契約内容を迅速に適応させることができる。
 
-== Agile Governance: Enabling Rather Than Constraining
+#@# == Agile Governance: Enabling Rather Than Constraining
+== 制約ではなく支援を可能にするアジャイルなガバナンス
 
-@<b>{Traditional Governance Challenge}: Procurement governance often constrains agility through rigid approval processes, fixed contract terms, and risk-averse decision-making.
+#@# @<b>{Traditional Governance Challenge}: Procurement governance often constrains agility through rigid approval processes, fixed contract terms, and risk-averse decision-making.
+@<b>{従来のガバナンスの課題}: @<w>{procurement}のガバナンスは、硬直した承認プロセス、固定された契約条件、リスク回避的な意思決定によって、しばしばアジリティを制約してしまう。
 
-@<b>{LAP-APOM Governance Model}: Governance structures that enable rapid decision-making while maintaining appropriate controls and risk management. 
+#@# @<b>{LAP-APOM Governance Model}: Governance structures that enable rapid decision-making while maintaining appropriate controls and risk management. 
+@<b>{LAP-APOMによるガバナンスモデル}: 適切な制御とリスク管理を維持しながら、迅速な意思決定を可能にするガバナンス構造である。
 
-=== Governance Innovations:
-@<i>{Outcome-Based Controls}: Instead of controlling activities, governance focuses on outcomes and provides teams with flexibility in how they achieve results.
+#@# === Governance Innovations:
+=== ガバナンスの革新:
 
-@<i>{Dynamic Risk Management}: Rather than trying to eliminate risk through detailed contracts, governance enables calculated risk-taking with mechanisms for rapid course correction.
+#@# @<i>{Outcome-Based Controls}: Instead of controlling activities, governance focuses on outcomes and provides teams with flexibility in how they achieve results.
+ * @<i>{アウトカム重視の制御}: アクティビティを管理・統制するのではなく、ガバナンスはアウトカムに焦点を当て、チームが結果をどのように達成するかについて柔軟性を持てるようにする。
 
-@<i>{Streamlined Approvals}: Governance processes are designed for speed and effectiveness, with clear decision rights and streamlined approval workflows.
+#@# @<i>{Dynamic Risk Management}: Rather than trying to eliminate risk through detailed contracts, governance enables calculated risk-taking with mechanisms for rapid course correction.
+ * @<i>{動的リスク管理}: 詳細な契約によってリスクを排除しようとするのではなく、ガバナンスによって、迅速な軌道修正を可能にする仕組みを備えたうえで、計算されたリスクテイクを可能にする。
 
-@<i>{Transparent Communication}: Governance structures ensure stakeholders have visibility into decisions and outcomes without creating bureaucratic overhead.
+#@# @<i>{Streamlined Approvals}: Governance processes are designed for speed and effectiveness, with clear decision rights and streamlined approval workflows.
+ * @<i>{承認プロセスの効率化}: ガバナンスプロセスはスピードと効果性を重視して設計されており、明確な意思決定権限と効率化された承認ワークフローを備えている。
 
-@<i>{Continuous Improvement}: Governance processes themselves are subject to regular review and improvement based on team feedback and performance results.
+#@# @<i>{Transparent Communication}: Governance structures ensure stakeholders have visibility into decisions and outcomes without creating bureaucratic overhead.
+ * @<b>{透明性のあるコミュニケーション}: ガバナンス構造は、官僚的な負担を生じることなく、ステークホルダーが意思決定やアウトカムを可視化できるようにする。
+
+#@# @<i>{Continuous Improvement}: Governance processes themselves are subject to regular review and improvement based on team feedback and performance results.
+ * @<i>{継続的な改善}: ガバナンスプロセス自体も、チームからのフィードバックやパフォーマンスの結果に基づいて定期的に見直し、改善の対象とする。
 
 == Cross-Functional and Cross Company Collaboration: Breaking Down Silos
 
