@@ -361,22 +361,31 @@ LAPは、2つの相補的なアプローチに基づいている。
 
 ====[/column]
 
-=== Core Principles of LAP
+#@# === Core Principles of LAP
+=== LAPの中核となる原則
 
-The focus for LAP is a collaborative and adaptive approach that can accelerate and sustain value creation and build resilience. @<bib>{11}@<bib>{12}
+#@# The focus for LAP is a collaborative and adaptive approach that can accelerate and sustain value creation and build resilience. @<bib>{11}@<bib>{12}
+LAPの焦点は、価値創出を加速し、持続させ、レジリエンスを構築できる、@<w>{collaborative}かつ適応力のあるアプローチにある@<bib>{11}@<bib>{12}。
 
-LAP delivers the greatest value in contexts with high strategic importance, significant uncertainty, innovation needs, complex stakeholder environments, time-sensitive opportunities, or long-term partnership potential. This is achieved through:
+#@# LAP delivers the greatest value in contexts with high strategic importance, significant uncertainty, innovation needs, complex stakeholder environments, time-sensitive opportunities, or long-term partnership potential. This is achieved through:
+LAPは、次のような状況で最大の価値を発揮する。すなわち、高い戦略的重要性がある場合、大きな不確実性が存在する場合、イノベーションが求められる場合、複雑なステークホルダー環境にある場合、時間的な制約の強い機会がある場合、または長期的なパートナーシップの可能性がある場合である。このような価値を発揮できるようにしているのは、次の要素である。
 
 ====[column]
- * @<b>{Focus on Outcomes, Not Outputs}: Measure success by business outcomes and impact, not just cost savings or process compliance.
- * @<b>{Iterative, Time-Boxed Procurement}: Use short, collaborative cycles to adapt quickly.
- * @<b>{Early and Deep Supplier Involvement}: Co-create solutions with partners from the outset to drive innovation.
- * @<b>{Agile Contracts for Collaboration}: Structure agreements to enable transparency, shared risk, and joint problem-solving. @<bib>{13}
- * @<b>{Continuous Learning and Improvement}: Regularly inspect, adapt, and enhance supplier contracts and procurement capability.
+#@#  * @<b>{Focus on Outcomes, Not Outputs}: Measure success by business outcomes and impact, not just cost savings or process compliance.
+ * @<b>{アウトプットではなく、アウトカムに注力}: コスト削減やプロセス遵守ではなく、ビジネスアウトカムとそのインパクトによって成功を計測する
+#@#  * @<b>{Iterative, Time-Boxed Procurement}: Use short, collaborative cycles to adapt quickly.
+ * @<b>{反復的でタイムボックス化された}@<wb>{procurement}: 短く、@<w>{collaborative}なサイクルを用いて、迅速に適応する
+#@#  * @<b>{Early and Deep Supplier Involvement}: Co-create solutions with partners from the outset to drive innovation.
+ * @<b>{早期かつ深い}@<wb>{supplier}@<b>{の関与}: パートナーと初期段階から共創し、イノベーションを推進する
+#@#  * @<b>{Agile Contracts for Collaboration}: Structure agreements to enable transparency, shared risk, and joint problem-solving. @<bib>{13}
+ * @<wb>{collaboration}@<b>{を促進するアジャイル契約}: 透明性、リスクの共有、共同での問題解決を可能にするように契約を構築する@<bib>{13}
+#@#  * @<b>{Continuous Learning and Improvement}: Regularly inspect, adapt, and enhance supplier contracts and procurement capability.
+ * @<b>{継続的な学習と改善}: @<w>{supplier}との契約や@<w>{procurement}の能力を定期的に検査し、適応し、強化する
 
 ====[/column]
 
-For more detail about the approach, please visit @<href>{https://www.lap-alliance.org/why-lap/what-is-lean-agile-procurement}.
+#@# For more detail about the approach, please visit @<href>{https://www.lap-alliance.org/why-lap/what-is-lean-agile-procurement}.
+このアプローチの詳細については、@<href>{https://www.lap-alliance.org/why-lap/what-is-lean-agile-procurement}を参照のこと。
 
 == The Integration Strategy: LAP Within APOM
 
