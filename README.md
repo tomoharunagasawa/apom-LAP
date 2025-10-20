@@ -11,6 +11,27 @@
    * [招待リンク](https://discord.gg/4c35N48QEM)
  * レビューの進捗: ※検討ちゅう
 
+### PDFの共有
+ * [原文](https://www.scrum.org/resources/accelerating-value-integrating-lean-agile-procurement-agile-product-operating-model)
+ * [最新のレビューPDF](https://evangelism-my.sharepoint.com/:b:/g/personal/nagasawa_servantworks_co_jp/EaWLdmoZ7UZJgFJn42_hkAMBMb-e2MUAtTYlZF5UnTQVhQ?e=INjLnn)
+   * 図版の内容もレビューしていただきたいです。
+   * 結構、頻繁にPDFは更新されます（日に数回レベル）。
+
+### 翻訳レビューの開始宣言と終了宣言
+
+翻訳レビューいただける場合は、各自のIssueを発行ください。
+
+ * GitHub Issueを起票する
+  - Title: お名前（フルネーム）
+    （翻訳謝辞にそのままコピペ可能なフルネームをご記入ください）
+  - Description: 下記をコピペしてください（※終了予定日は記入してください）
+```
+- 終了予定日: 2025/10/xx
+- [ ] 翻訳レビュー開始
+- [ ] 翻訳レビュー完了 
+```
+  - 開始と完了の際にチェックボックスに✔︎を入れてください
+
 ### 翻訳レビューの方法
 GitHub Issuesで指摘してください。
 
@@ -32,11 +53,6 @@ GitHub Issuesで指摘してください。
  * 誤字脱字: 誤字や脱字など気がついた点を指摘
  * 重複: 以前にご指摘いただいたものと同様のものはこちらにマークします
 
-### PDFの共有
- * [原文](https://www.scrum.org/resources/accelerating-value-integrating-lean-agile-procurement-agile-product-operating-model)
- * [最新のレビューPDF](https://evangelism-my.sharepoint.com/:b:/g/personal/nagasawa_servantworks_co_jp/EaWLdmoZ7UZJgFJn42_hkAMBMb-e2MUAtTYlZF5UnTQVhQ?e=INjLnn)
-   * 図版の内容もレビューしていただきたいです。
-   * 結構、頻繁にPDFは更新されます（日に数回レベル）。
 
 ### 離脱の自由
  * レビュー原稿を見て、内容や質でレビュー困難と思った際は、いつでも遠慮なくご辞退ください
