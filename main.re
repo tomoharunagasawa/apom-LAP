@@ -110,7 +110,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
 先進的な組織は、価値を提供する方法そのものを根本から再構築している。すなわち、@<w>{project-based}のウォーターフォール型アプローチから、@<w>{product-centric}の反復型モデルへと移行しているのだ。この変革は、過去10年間で最も重要な組織的な変化のひとつであり、その影響はソフトウェア開発にとどまらず、ビジネス運営のあらゆる側面に及んでいる。
 
-//tsize[80,80]
+//tsize[73,73]
 //table[]{
 #@# @<b>{Project-Based Model}	@<b>{Product-Based Model}
 @<wb>{project-based}@<b>{モデル}	@<wb>{product-based}@<b>{モデル}
@@ -135,7 +135,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
 変化する状況は、単なる@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
 
-//tsize[80,80]
+//tsize[73,73]
 //table[]{
 #@# @<b>{Traditional Supplier Management}	@<b>{Agile Partner Management}
 @<b>{従来型の}@<wb>{supplier}@<b>{管理}	@<b>{アジャイルでのパートナー管理}
@@ -517,7 +517,7 @@ Successful LAP and APOM integration requires comprehensive measurement systems t
 
 === New Collaborative Excellence Metrics
 
-//tsize[60,30,70]
+//tsize[50,30,55]
 //table[]{
 @<b>{Area}	@<b>{Key Value Area}	@<b>{Metric}
 ----------------------------
