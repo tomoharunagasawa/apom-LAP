@@ -18,7 +18,6 @@ GitHub Issuesで指摘してください。
    ![](images/guide_for_review/creating_issue_on_GitHub.png)
  2. Issue "Title"に「読みずらい！〇〇〇〇 → 〇〇●〇がいい」など入れてくれると助かります。内容は、文章の提案があればいただけると助かります！
  3. <del>Labelsにて、適切なものを選択してください（適当でいいです）。</del>
-   ![](images/guide_for_review/select_labels_for_the_issue.png)
  4. 指摘事項をご記入いただき、［Submit new issue］ボタンを押下してください。
 
 ### カンバンプロジェクトはこちら
