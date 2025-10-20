@@ -347,13 +347,17 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 #@# Lean-Agile Procurement (LAP) represents a fundamental paradigm shift from command-and-control sourcing to outcome-focused, collaboration-centric procurement. This transformation goes beyond process improvement to reimagine procurement's role in value creation. Early supplier involvement does not remove competitive fairness; rather, it increases cultural, human and solution fit and reduces costly rework and effective procurement - you are buying the right thing from the right people.
 Lean-Agile Procurement（LAP）は、指揮命令型の@<w>{sourcing}から、@<w>{outcome-focused}で@<w>{collaboration}中心の@<w>{procurement}への根本的なパラダイムシフトを表している。この変革は、単なるプロセス改善を超え、価値創出における@<w>{procurement}の役割そのものを再構築するものである。初期段階から@<w>{supplier}が関与することは、競争の公平性を損なうものではなく、むしろ文化的、人的な適合性、ソリューションの整合性を高め、手戻りのコストを削減し、効果的な@<w>{procurement}を実現する。つまり、適切な相手から適切なものを入手することが可能になるのだ。
 
-=== The Philosophy Behind LAP
+#@# === The Philosophy Behind LAP
+=== LAPの背後にある哲学
 
 ====[column]
-LAP draws from two complementary approaches:
+#@# LAP draws from two complementary approaches:
+LAPは、2つの相補的なアプローチに基づいている。
 
- * @<b>{Lean Principles}: Eliminating waste, optimizing flow, and focusing on customer value @<bib>{9}
- * @<b>{Agile Principles}: Embracing change, collaborating with stakeholders, and delivering value iteratively. @<bib>{10}
+#@#  * @<b>{Lean Principles}: Eliminating waste, optimizing flow, and focusing on customer value @<bib>{9}
+ * @<b>{リーンの原則}: ムダを取り除き、フローを最適化し、顧客価値に集中する@<bib>{9}
+#@#  * @<b>{Agile Principles}: Embracing change, collaborating with stakeholders, and delivering value iteratively. @<bib>{10}
+ * @<b>{アジャイルの原則}: 変化を受け入れ、ステークホルダーと@<w>{collaboration}し、価値を反復的に提供する@<bib>{10}
 
 ====[/column]
 
