@@ -21,7 +21,7 @@ GitHub Issuesで指摘してください。
  4. 指摘事項をご記入いただき、［Submit new issue］ボタンを押下してください。
 
 ### カンバンプロジェクトはこちら
-[カンバン](https://github.com/users/tomoharunagasawa/projects/5)
+[カンバン](https://github.com/users/tomoharunagasawa/projects/8/views/1)
 
 ### Issueのラベル
 
