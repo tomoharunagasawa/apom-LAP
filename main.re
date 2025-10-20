@@ -6,7 +6,9 @@
 == 全体概要
 
 #@# In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
-現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになるのだ。
+現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}@<fn>{Procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになるのだ。
+
+//footnote[Procurement][訳注: 本ドキュメントにおける「procurement」は単なる購買や発注ではなく、戦略的ソーシング、契約の共創、パートナーとの協働を含む広い概念を指す。LAPではパートナー管理、提案・契約の共創が中核であり、アウトカムに整合したパートナーシップの設計と適応的な契約運用が重視される。]
 
 #@# Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
 スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}@<w>{procurement}の機能を求めている。
@@ -396,11 +398,14 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# Building procurement capability into Product teams is a strategic enabler. In the same way that 25 years ago where Product, QA and Operations were separate departments, and are now all integrated into product teams for maximum flexibility in value delivery. Expanding cross functionality to include all the core business capabilities enhances timely decision making while improving risk management and compliance.
 プロダクトチームに@<w>{procurement}の能力を組み込むことは、戦略的な@<w>{enabler}である。25年前には、プロダクト、QA、オペレーションが別々の部門として存在していたが、現在では最大限の柔軟性を持って価値提供するために、それらはすべてプロダクトチームに統合されているのと同様である。ビジネスの中核機能すべてを含む形で@<w>{cross-functional}的な連携を拡張することにより、リスク管理やコンプライアンスを改善しつつ、タイムリーな意思決定を強化できるようになる。
 
-=== Strategic Alignment: From Cost Center to Strategic Enabler
+#@# === Strategic Alignment: From Cost Center to Strategic Enabler
+=== コストセンターから戦略的な@<w>{enabler}への整合の実現
 
-@<b>{Traditional Procurement Role}: Procurement operates as a cost center focused on purchasing efficiency, with success measured by cost savings and process compliance.
+#@# @<b>{Traditional Procurement Role}: Procurement operates as a cost center focused on purchasing efficiency, with success measured by cost savings and process compliance.
+@<b>{従来の}@<wb>{procurement}@<b>{の役割}: @<w>{procurement}は、購買効率に焦点を当てたコストセンターとして機能し、成功はコスト削減やプロセス遵守によって計測される。
 
-@<b>{LAP-APOM Integration}: Procurement becomes a strategic enabler directly contributing to business outcomes, with success measured by strategic impact and value creation.
+#@# @<b>{LAP-APOM Integration}: Procurement becomes a strategic enabler directly contributing to business outcomes, with success measured by strategic impact and value creation.
+@<b>{LAP-APOMの統合}: @<w>{procurement}は、ビジネスアウトカムに直接貢献する戦略的な@<w>{enabler}となり、成功は戦略的なインパクトと価値創出によって計測される。
 
 ==== Integration Mechanisms:
 Outcome-Based Supplier Selection: Instead of selecting suppliers based primarily on cost, LAP ensures supplier selection directly supports APOM strategic objectives. This might mean choosing suppliers with stronger innovation capabilities, better collaboration skills, or superior strategic alignment even if they're not the lowest cost option. 
