@@ -6,7 +6,7 @@
 == 全体概要
 
 #@# In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
-現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}@<fn>{Procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになるのだ。
+現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}@<fn>{Procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになる。
 
 //footnote[Procurement][訳注: 本ドキュメントにおける「procurement」は単なる購買や発注ではなく、戦略的ソーシング、契約の共創、パートナーとの協働を含む広い概念を指す。LAPではパートナー管理、提案・契約の共創が中核であり、アウトカムに整合したパートナーシップの設計と適応的な契約運用が重視される。]
 
