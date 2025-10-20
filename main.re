@@ -407,14 +407,20 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# @<b>{LAP-APOM Integration}: Procurement becomes a strategic enabler directly contributing to business outcomes, with success measured by strategic impact and value creation.
 @<b>{LAP-APOMの統合}: @<w>{procurement}は、ビジネスアウトカムに直接貢献する戦略的な@<w>{enabler}となり、成功は戦略的なインパクトと価値創出によって計測される。
 
-==== Integration Mechanisms:
-Outcome-Based Supplier Selection: Instead of selecting suppliers based primarily on cost, LAP ensures supplier selection directly supports APOM strategic objectives. This might mean choosing suppliers with stronger innovation capabilities, better collaboration skills, or superior strategic alignment even if they're not the lowest cost option. 
+#@# ==== Integration Mechanisms:
+==== 統合の仕組み:
 
-@<i>{Strategic Partnership Development}: LAP's collaborative approach naturally creates the strategic partnerships that APOM requires. Organizations with the most successful partnerships create cross-company cross-functional teams solely focused on joint innovation with partners. By creating a practice of "open innovation", organisations aim to coordinate their efforts and leverage the skills and interests of people throughout all companies.
+#@# @<i>{Outcome-Based Supplier Selection}: Instead of selecting suppliers based primarily on cost, LAP ensures supplier selection directly supports APOM strategic objectives. This might mean choosing suppliers with stronger innovation capabilities, better collaboration skills, or superior strategic alignment even if they're not the lowest cost option. 
+ * @<wi>{outcome-based}@<i>{の}@<wi>{supplier}@<i>{の選定}: コストを主な基準として@<w>{supplier}を選ぶのではなく、LAPはAPOMの戦略的な目標を直接支援できる@<w>{supplier}の選定を重視する。これは、最も低コストな選択肢でなくても、イノベーションの能力、@<w>{collaboration}スキル、または戦略的な整合性が優れている@<w>{supplier}を選ぶことを意味する。
 
-@<i>{Value Stream Integration}: Procurement decisions are aligned with APOM value streams, ensuring that supplier capabilities, contract terms, and partnership structures directly support value delivery to customers.
+#@# @<i>{Strategic Partnership Development}: LAP's collaborative approach naturally creates the strategic partnerships that APOM requires. Organizations with the most successful partnerships create cross-company cross-functional teams solely focused on joint innovation with partners. By creating a practice of "open innovation", organisations aim to coordinate their efforts and leverage the skills and interests of people throughout all companies.
+ * @<i>{戦略的パートナーシップの構築}: LAPの@<w>{collaborative}なアプローチは、APOMが必要とする戦略的パートナーシップを自然に形成する。最も成功している組織は、パートナーとの共同イノベーションのみに専念する、@<w>{cross-company}かつ@<w>{cross-functional}のチームを構築している。「オープンイノベーション」の実践を通じて、組織は各企業に所属する人々のスキルや関心を活かしながら、取り組みを調整することを目指している。
 
-@<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
+#@# @<i>{Value Stream Integration}: Procurement decisions are aligned with APOM value streams, ensuring that supplier capabilities, contract terms, and partnership structures directly support value delivery to customers.
+ * @<i>{バリューストリームの統合}: @<w>{procurement}の意思決定をAPOMのバリューストリームと整合させ、@<w>{supplier}の能力、契約条件、パートナーシップ構造が、顧客への価値提供を直接支援するようにする。
+
+#@# @<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
+ * @<i>{適応力のある戦略的対応}: 市場環境や顧客からのフィードバックに応じてAPOMの戦略が変化した場合、LAPの適応力のある契約アプローチによって、長期的な再交渉サイクルを経ることなく、@<w>{supplier}や契約内容を迅速に適応させることができる。
 
 == Agile Governance: Enabling Rather Than Constraining
 
