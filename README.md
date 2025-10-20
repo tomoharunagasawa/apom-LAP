@@ -9,7 +9,7 @@
 
  * [Discordチャンネル](https://discord.com/channels/844471845716754442/1428901492244480150)   
    * [招待リンク](https://discord.gg/4c35N48QEM)
- * レビューの進捗: ※検討ちゅう
+ * レビューの進捗: ※「翻訳レビューの開始宣言と終了宣言」参照のこと
 
 ### PDFの共有
  * [原文](https://www.scrum.org/resources/accelerating-value-integrating-lean-agile-procurement-agile-product-operating-model)
