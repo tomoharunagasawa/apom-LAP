@@ -396,7 +396,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 単なる@<w>{procurement}改善の取り組みとして個別に導入されるものではなく、より包括的なAPOMの中に統合されたときに、LAPの真の力が発揮される。この統合によって、LAPとAPOMの両方の恩恵が増幅される相乗効果が生まれる。
 
 #@# Building procurement capability into Product teams is a strategic enabler. In the same way that 25 years ago where Product, QA and Operations were separate departments, and are now all integrated into product teams for maximum flexibility in value delivery. Expanding cross functionality to include all the core business capabilities enhances timely decision making while improving risk management and compliance.
-プロダクトチームに@<w>{procurement}の能力を組み込むことは、戦略的な@<w>{enabler}である。25年前には、プロダクト、QA、オペレーションが別々の部門として存在していたが、現在では最大限の柔軟性を持って価値提供するために、それらはすべてプロダクトチームに統合されているのと同様である。ビジネスの中核機能すべてを含む形で@<w>{cross-functional}的な連携を拡張することにより、リスク管理やコンプライアンスを改善しつつ、タイムリーな意思決定を強化できるようになる。
+プロダクトチームに@<w>{procurement}の能力を組み込むことは、戦略的な@<w>{enabler}である。25年前、プロダクト、QA、オペレーションがそれぞれ独立した部門だったが、価値提供の柔軟性を最大化するためにプロダクトチームへ統合されているのと同じように、主要なビジネス機能すべてを含むように@<w>{cross-functional}的な連携を拡張することで、リスク管理やコンプライアンスを改善しつつ、タイムリーな意思決定を強化できるようになる。
 
 #@# === Strategic Alignment: From Cost Center to Strategic Enabler
 === コストセンターから戦略的な@<w>{enabler}への整合の実現
