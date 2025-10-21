@@ -380,7 +380,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@#  * @<b>{Early and Deep Supplier Involvement}: Co-create solutions with partners from the outset to drive innovation.
  * @<wb>{supplier}@<b>{の早期かつ深い関与}: パートナーと初期段階から共創し、イノベーションを推進する
 #@#  * @<b>{Agile Contracts for Collaboration}: Structure agreements to enable transparency, shared risk, and joint problem-solving. @<bib>{13}
- * @<wb>{collaboration}@<b>{を促進するアジャイル契約}: 透明性、リスクの共有、共同での問題解決を可能にするように契約を構築する@<bib>{13}
+ * @<wb>{collaboration}@<b>{を促進するアジャイル契約}: 透明性を確保し、リスクを共有し、共同で問題解決できるように契約を構築する@<bib>{13}
 #@#  * @<b>{Continuous Learning and Improvement}: Regularly inspect, adapt, and enhance supplier contracts and procurement capability.
  * @<b>{継続的な学習と改善}: @<w>{supplier}との契約や@<w>{procurement}の能力を定期的に検査し、適応し、強化する
 
