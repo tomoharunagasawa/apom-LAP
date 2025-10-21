@@ -272,7 +272,7 @@ APOMは、人々を明確な目的と意思決定権限を持つ安定した@<w>
 ====[/column]
 
 #@# @<b>{Procurement Implications}: Procurement capability must be embedded within product teams, enabling them to understand their goals and constraints. The product team has ownership of all the partnerships in their organisation. This creates a cross-company organisation focussed on delivering on the Product Vision. The traditional model of centralized procurement making decisions in isolation becomes obsolete.
-@<wb>{procurement}@<b>{への影響}: @<w>{procurement}の能力はプロダクトチーム内に組み込まれ、チームが自らのゴールと制約を理解できるようにする必要がある。プロダクトチームは、自らの組織におけるすべてのパートナーシップに対してオーナーシップを発揮する。このことにより、プロダクトビジョンの実現に向けて全社的に連携した組織が形成される。従来のように、中央集権的な@<w>{procurement}部門が孤立して意思決定を行うモデルは、もはや時代遅れとなっている。
+@<wb>{procurement}@<b>{への影響}: @<w>{procurement}の能力はプロダクトチーム内に組み込まれ、チームが自らのゴールと制約を理解できるようにする必要がある。プロダクトチームは、自らの組織におけるすべてのパートナーシップに対してオーナーシップを発揮する。このことにより、プロダクトビジョンの実現に向けて全社的に連携した組織が形成される。従来のように、中央集権的な@<w>{procurement}部門が独立して意思決定を行うモデルは、もはや時代遅れとなっている。
 
 #@# ==== 3. Structure: The "How" - Enabling Governance and Processes
 ==== 3. @<w>{Structure}: 「どのように」@<w>{-}ガバナンスとプロセスを支える仕組み
@@ -298,7 +298,7 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 ====[/column]
 
 #@# @<b>{Procurement Implications}: Procurement governance must shift from control-based to enablement-based approaches. The central procurement team provides the constraints that the product team is required to operate in. This requires new contract models, streamlined approval processes, and collaborative tools that support rapid decision-making. This improves compliance and auditability through earlier engagement and increased transparency.
-@<wb>{procurement}@<b>{への影響}: @<w>{procurement}のガバナンスは、@<w>{control-based}のアプローチから@<w>{enablement-based}のアプローチへと転換しなければならない。中央集中的な@<w>{procurement}チームは、プロダクトチームが活動するための制約を提示する役割を担う。この転換には、新しい契約モデル、効率化した承認プロセス、迅速な意思決定を支援する@<w>{collaborative}なツールが求められる。これにより、初期段階からの関与と透明性の向上を通じて、コンプライアンスと監査可能性の両方が改善される。
+@<wb>{procurement}@<b>{への影響}: @<w>{procurement}のガバナンスは、@<w>{control-based}のアプローチから@<w>{enablement-based}のアプローチへと転換しなければならない。中央集権的な@<w>{procurement}チームは、プロダクトチームが活動するための制約を提示する役割を担う。この転換には、新しい契約モデル、効率化した承認プロセス、迅速な意思決定を支援する@<w>{collaborative}なツールが求められる。これにより、初期段階からの関与と透明性の向上を通じて、コンプライアンスと監査可能性の両方が改善される。
 
 #@# ==== 4. Value Cycle: The "What" - Continuous Discovery and Delivery
 ==== 4. @<w>{Value Cycle}: 「何を」@<w>{-}継続的な発見と提供
@@ -449,21 +449,29 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# @<i>{Continuous Improvement}: Governance processes themselves are subject to regular review and improvement based on team feedback and performance results.
  * @<i>{継続的な改善}: ガバナンスプロセス自体も、チームからのフィードバックやパフォーマンスの結果に基づいて定期的に見直し、改善の対象とする。
 
-== Cross-Functional and Cross Company Collaboration: Breaking Down Silos
+#@# == Cross-Functional and Cross Company Collaboration: Breaking Down Silos
+== サイロを打破する@<w>{cross-functional}かつ@<w>{cross-company}な@<w>{collaboration}
 
-@<b>{The Silo Challenge}: Traditional procurement operates in isolation from product teams, leading to misaligned supplier selection, contract terms that constrain agility, and missed opportunities for supplier-driven innovation.
+#@# @<b>{The Silo Challenge}: Traditional procurement operates in isolation from product teams, leading to misaligned supplier selection, contract terms that constrain agility, and missed opportunities for supplier-driven innovation.
+@<b>{サイロ化の課題}: 従来の@<w>{procurement}は、プロダクトチームから切り離されて機能しており、その結果、@<w>{supplier}の選定に整合性がなかったり、アジリティに制限をかけるような契約条件が設定されたり、@<w>{supplier-driven}のイノベーションの機会を逸することにつながっている。
 
-@<b>{LAP-APOM Solution}: LAP's "Big Room" format naturally creates the cross-functional collaboration that APOM requires, while APOM's team structure provides the organizational foundation for sustained collaboration.
+#@# @<b>{LAP-APOM Solution}: LAP's "Big Room" format naturally creates the cross-functional collaboration that APOM requires, while APOM's team structure provides the organizational foundation for sustained collaboration.
+@<b>{LAP-APOMによる解決策}: LAPの「@<w>{Big Room}」の形態は、APOMが必要とする@<w>{cross-functional}な@<w>{collaboration}を自然に生み出す。一方、APOMのチーム構造は、持続可能な@<w>{collaboration}を支える組織的な基盤を提供する。
 
-=== Collaboration Mechanisms:
+#@# === Collaboration Mechanisms:
+=== @<w>{collaboration}の仕組み:
 
- * @<i>{Embedded Procurement Professionals}: Instead of centralized procurement making decisions in isolation, procurement professionals become embedded partners with APOM product teams, understanding their specific needs, constraints, and success criteria.
+#@#  * @<i>{Embedded Procurement Professionals}: Instead of centralized procurement making decisions in isolation, procurement professionals become embedded partners with APOM product teams, understanding their specific needs, constraints, and success criteria.
+ * @<i>{組み込まれた}@<wi>{procurement}@<i>{の}@<wi>{professional}: 中央集権的な@<w>{procurement}が独立して意思決定を行うのではなく、@<w>{procurement}の@<w>{professional}がAPOMのプロダクトチームに組み込まれたパートナーとなり、チーム固有のニーズ、制約、成功基準を理解する。
 
- * @<i>{Collaborative Decision-Making}: The Lean Agile Procurement Canvas brings together all relevant stakeholders—product managers, technical leads, legal counsel, finance, and suppliers—to make decisions collaboratively rather than sequentially.
+#@#  * @<i>{Collaborative Decision-Making}: The Lean Agile Procurement Canvas brings together all relevant stakeholders—product managers, technical leads, legal counsel, finance, and suppliers—to make decisions collaboratively rather than sequentially.
+ * @<wi>{collaborative}@<i>{な意思決定}: @<w>{LAP Canvas}は、プロダクトマネージャー、テックリード、法務担当、財務担当、@<w>{supplier}など、それぞれの関係者が逐次で行うのではなく、すべての関係者を一堂に会し、@<w>{collaborative}に意思決定を行うことができる。
 
- * @<i>{Shared Accountability}: Both LAP and APOM emphasize shared accountability for outcomes rather than functional accountability for activities. This alignment creates natural incentives for collaboration and mutual support.
+#@#  * @<i>{Shared Accountability}: Both LAP and APOM emphasize shared accountability for outcomes rather than functional accountability for activities. This alignment creates natural incentives for collaboration and mutual support.
+ * @<i>{説明責任の共有}: LAPとAPOMの双方は、アクティビティ単位の職能的な説明責任ではなく、アウトカムに対する共有された説明責任を重視している。この整合性は、@<w>{collaboration}や相互支援を促す動機づけとなる。
 
- * @<i>{Continuous Communication}: Rather than periodic procurement reviews, LAP and APOM integration creates continuous communication channels between procurement and product teams, enabling rapid response to changing needs and opportunities.
+#@#  * @<i>{Continuous Communication}: Rather than periodic procurement reviews, LAP and APOM integration creates continuous communication channels between procurement and product teams, enabling rapid response to changing needs and opportunities.
+ * @<i>{継続的なコミュニケーション}: 定期的な@<w>{procurement}のレビューを行うのではなく、LAPとAPOMの統合により、@<w>{procurement}チームとプロダクトチームの間に継続的なコミュニケーションのチャネルが構築され、変化するニーズや機会に迅速に対応できる体制を整える。
 
 == Accelerated Value Cycles: Speed Without Compromise
 
