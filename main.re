@@ -589,45 +589,73 @@ LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}�
 @<w>{Strategic Value Creation Metrics}	@<w>{Current Value}	@<w>{procurement}のアウトカムに対する内部ステークホルダーの満足度
 //}
 
-== Critical Success Factors for Implementation
+#@# == Critical Success Factors for Implementation
+== 実現のための重要成功要因
 
 ===[column]
-Successful integration of the Lean-Agile Procurement approach with APOM requires a deliberate change management approach. Successful implementations demonstrate several critical success factors:
+#@# Successful integration of the Lean-Agile Procurement approach with APOM requires a deliberate change management approach. Successful implementations demonstrate several critical success factors:
+LAPアプローチをAPOMに統合して成功させるには、意図的な変更管理アプローチが必要である。成功している実現事例には、次のような重要成功要因が見られる。
 
- 1. Executive Leadership and Sponsorship
- 2. Cross Functional Capability Building
- 3. Agile Contracting Competency Development @<bib>{15}
- 4. Cultural Support and Change Management
- 5. Effective Product Ownership
+#@#  1. Executive Leadership and Sponsorship
+ 1. @<w>{executive}によるリーダーシップと支援 
+#@#  2. Cross Functional Capability Building
+ 2. @<w>{cross-functional}的な能力構築
+#@#  3. Agile Contracting Competency Development @<bib>{15}
+ 3. アジャイル契約に関する能力開発@<bib>{15}
+#@#  4. Cultural Support and Change Management
+ 4. 文化的な支援と変更管理
+#@#  5. Effective Product Ownership
+ 5. 効果的なプロダクトオーナーシップ
 
 ===[/column]
 
-=== Executive Leadership and Sponsorship
-Executive support must demonstrate active leadership of the cultural and organizational change. Leadership needs to embrace the trust based model, building clarity around constraints and holding individuals and teams accountable for value delivery and outcomes.When leaders model collaborative, outcome based, behaviors in their work, it provides a clear example for all product and procurement teams to follow.
+#@# === Executive Leadership and Sponsorship
+=== @<w>{executive}によるリーダーシップと支援
 
-=== Cross Functional Capability Building
-The value of cross functional teams is key in APOM and LAP. Having the right team members from business, legal, operational, technical and procurement assemble to make unified and timely decisions is key. Many organizations struggle with siloed structures and misalignment on the strategic direction.
+#@# Executive support must demonstrate active leadership of the cultural and organizational change. Leadership needs to embrace the trust based model, building clarity around constraints and holding individuals and teams accountable for value delivery and outcomes.When leaders model collaborative, outcome based, behaviors in their work, it provides a clear example for all product and procurement teams to follow.
+@<w>{executive}の支援は、文化的および組織的な変革を積極的に主導するリーダーシップとして示さなければならない。リーダーは、信頼に基づくモデルを受け入れ、制約の明確化を図り、個人とチームが価値提供とアウトカムに対して説明責任を果たせるようにする必要がある。リーダー自身が、仕事において@<w>{collaborative}で@<w>{outcome-based}な振る舞いを示すことで、すべてのプロダクトチームと@<w>{procurement}チームにとって明確な規範となる。
 
-=== Agile Contracting Competency Development
-The movement from fixed scope, risk transfer, compliance and reduced cost to an outcome focus will require education and support. Agile contracts and delivery emphasize alignment on strategic goals, with a collaborative approach to delivery and problem solving. Using objective evidence-based measurement and regular and timely opportunities to change (inspection and adaptation) helps develop the internal competency. @<bib>{16}
+#@# === Cross Functional Capability Building
+=== @<w>{cross-functional}的な能力構築
 
-=== Cultural Support and Change Management
-The shift from control-based to trust-based interactions challenges traditional approaches to people management and procurement. 
+#@# The value of cross functional teams is key in APOM and LAP. Having the right team members from business, legal, operational, technical and procurement assemble to make unified and timely decisions is key. Many organizations struggle with siloed structures and misalignment on the strategic direction.
+@<w>{cross-functional}チームの価値は、APOMとLAPの双方において重要な鍵となる。ビジネス、法務、オペレーション、技術、@<w>{procurement}といった各分野のメンバーが集結し、統一したタイミングでの意思決定を行うことが不可欠である。組織の多くは、サイロ化された構造や戦略的方向性の不整合に苦慮している。
+
+#@# === Agile Contracting Competency Development
+=== アジャイル契約に関する能力開発
+
+#@# The movement from fixed scope, risk transfer, compliance and reduced cost to an outcome focus will require education and support. Agile contracts and delivery emphasize alignment on strategic goals, with a collaborative approach to delivery and problem solving. Using objective evidence-based measurement and regular and timely opportunities to change (inspection and adaptation) helps develop the internal competency. @<bib>{16}
+固定化したスコープ、リスクの転嫁、コンプライアンス、コスト削減といった従来の考え方から、アウトカム重視のアプローチへ移行するためには、育成と支援が必要である。アジャイル契約と提供は、戦略的ゴールへの整合性を重視し、提供や問題解決において@<w>{collaborative}なアプローチを採り入れる。客観的なエビデンスに基づいた計測と、定期的かつタイムリーな変更の機会（検査と適応）を活用することで、組織内部の能力を育成することができる@<bib>{16}。
+
+#@# === Cultural Support and Change Management
+=== 文化的な支援と変更管理
+
+#@# The shift from control-based to trust-based interactions challenges traditional approaches to people management and procurement. 
+@<w>{control-based}から信頼に基づく関係への移行は、従来の人材管理と@<w>{procurement}のアプローチに大きな課題をもたらす。
 
 ====[column]
-Success requires fundamental shifts in embedded procurement from:
+#@# Success requires fundamental shifts in embedded procurement from:
+成功するためには、組み込まれた@<w>{procurement}において、次のような根本的な転換が求められる。
 
- * Cost to Value
- * Compliance to Outcome
- * Adversarial to Collaborative
- * Competitive to Mutual success
+#@#  * Cost to Value
+ * コスト志向から価値志向へ
+#@#  * Compliance to Outcome
+ * コンプライアンス重視からアウトカム志向へ
+#@#  * Adversarial to Collaborative
+ * 対立的な関係から@<w>{collaborative}な関係へ
+#@#  * Competitive to Mutual success
+ * 競争から相互成功へ
 
-These shifts will establish a Product aligned approach, enabling broader organizational changes. @<bib>{17}
+#@# These shifts will establish a Product aligned approach, enabling broader organizational changes. @<bib>{17}
+これらの転換によって、プロダクトと整合性の取れたアプローチが確立でき、より広範な組織変革が可能になる@<bib>{17}。
 
 ====[/column]
 
-=== Effective Product Ownership
-Within the APOM and LAP approaches the Product Owner needs to be effective. This requires them to own the whole partner ecosystem for their product - to enable them to manage for the maximum value delivered. The Product Owner will have the ability to deliver, and be accountable for the value delivered and the return on investment.
+#@# === Effective Product Ownership
+=== 効果的なプロダクトオーナーシップ
+
+#@# Within the APOM and LAP approaches the Product Owner needs to be effective. This requires them to own the whole partner ecosystem for their product - to enable them to manage for the maximum value delivered. The Product Owner will have the ability to deliver, and be accountable for the value delivered and the return on investment.
+APOMとLAPのアプローチにおいては、プロダクトオーナーが効果的である必要がある。そのためには、自らのプロダクトに関わるパートナーエコシステム全体に責任を持ち、最大限の価値提供を実現できるように管理することが求められる。プロダクトオーナーは、価値提供と投資収益率（ROI）に対して説明責任を持ち、それを実現する能力を備えている。
 
 == Conclusion: The Strategic Imperative for Procurement Transformation
 
