@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+./Integrating Lean Agile Procurement into the APOM - Whitepaper Japanese-pdf/*
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -57,3 +58,5 @@ build-iPhoneSimulator/
 .DS_Store
 Integrating Lean Agile Procurement into the APOM - Whitepaper Japanese.pdf
 images/~$images.pptx
+Integrating Lean Agile Procurement into the APOM - Whitepaper Japanese-pdf/*
+
