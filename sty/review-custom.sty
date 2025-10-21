@@ -25,6 +25,34 @@
 % \setlength\intextsep{0pt}
 % \setlength\textfloatsep{0pt}
 
+% 禁則処理（和文約物の拡張）
+\AtBeginDocument{%
+  % 行頭禁則（この文字の前では改行しない）
+  \prebreakpenalty"3001=10000 % 、 U+3001
+  \prebreakpenalty"3002=10000 % 。 U+3002
+  \prebreakpenalty"FF0C=10000 % ， U+FF0C
+  \prebreakpenalty"FF0E=10000 % ． U+FF0E
+  \prebreakpenalty"FF01=10000 % ！ U+FF01
+  \prebreakpenalty"FF1F=10000 % ？ U+FF1F
+  \prebreakpenalty"FF61=10000 % ｡ U+FF61（半角句点）
+  \prebreakpenalty"300D=10000 % 」 U+300D
+  \prebreakpenalty"300F=10000 % 』 U+300F
+  \prebreakpenalty"FF3D=10000 % ］ U+FF3D
+  \prebreakpenalty"FF09=10000 % ） U+FF09
+  \prebreakpenalty"3009=10000 % 〉 U+3009
+  \prebreakpenalty"300B=10000 % 》 U+300B
+  \prebreakpenalty"3011=10000 % 】 U+3011
+
+  % 行末禁則（この文字の後では改行しない）
+  \postbreakpenalty"300C=10000 % 「 U+300C
+  \postbreakpenalty"300E=10000 % 『 U+300E
+  \postbreakpenalty"FF3B=10000 % ［ U+FF3B
+  \postbreakpenalty"FF08=10000 % （ U+FF08
+  \postbreakpenalty"3008=10000 % 〈 U+3008
+  \postbreakpenalty"300A=10000 % 《 U+300A
+  \postbreakpenalty"3010=10000 % 【 U+3010
+}%
+
 % コラムの見出し:「コラム」と表示しない, 見出し用フォント
 \renewcommand{\reviewcolumnhead}[2]{%
 {\noindent\headfont #2}}
@@ -60,47 +88,53 @@
     {.5\Cvs \@plus.3\Cdp}% 後アキ
     {\normalfont\LARGE\headfont\raggedright\textcolor{white!40!green!55!blue}}}
 \fi
-
-% インデントなしの横方向の調整
-% \renewcommand{\noindent}
-% {\hspace{-0.75\Cvs}}
-% インデントなしの横方向の調整
-% \newcommand{\noindnt}
-% {\hspace{-0.75\Cvs}}
 	
-% \renewcommand{\section}[block]
-% {}{}{0pt}
-% {
-%   \colorbox{teal}{\begin{picture}(0,20)\end{picture}}
-%   \hspace{0pt}
-%   \normalfont \Huge\bfseries \thesection
-%   \hspace{-4pt}
-% }
-% [
-% \begin{picture}(100,0)
-%   \put(3,30){\color{teal}\line(1,0){400}}
-% \end{picture}
-% \\
-% \vspace{-50pt}
-% ]
 
-
+% ドキュメント最初のページにも fancy スタイル適用
+\AtBeginDocument{%
+  \thispagestyle{fancy}
+}
 
 \usepackage[absolute,overlay]{textpos}
 \usepackage{pxtextpos}
 \newcommand{\myoverlayimage}{
-  \begin{textblock*}{85mm}(100mm,\dimexpr\paperheight-7.6mm-2mm)
+  \begin{textblock*}{85mm}(60mm,\dimexpr\paperheight-6.0mm-2mm)
     % \includegraphics[height=5mm]{images/dasa.png}% 高さ20mmの画像貼り付け
-	{©2025 Scrum.org | All Rights Reserved.　|} 
+	% {©2025 kanbanguides.org | All Rights Reserved.} 
   \end{textblock*}
 }
-\chead{\myoverlayimage}
-\fancypagestyle{plainhead}{% 既存の\fancypagestyle{plainhead}のコピー
-\chead{\myoverlayimage}% ここを追加
-% \fancyfoot{} % clear all header and footer fields
-\fancyfoot[RE,RO]{\thepage}
+
+% 今回用のフッターとヘッダーの設定（以下全部）
+\usepackage{fancyhdr}
+% \usepackage{url}
+\pagestyle{fancy}
+\fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}}
+\setlength{\footskip}{5mm}
+
+% 通常ページ
+\fancyfoot[C]{%
+  \begin{minipage}[t]{\textwidth}
+    % {\color{white!10!green!30!blue!100!black!80!}\rule{\textwidth}{0.75pt}}\\[1.5ex]
+    \footnotesize
+    \raggedright
+    \hfill\textnormal{©2025 Scrum.org | All Rights Reserved.　| \ \thepage}
+  \end{minipage}
+}
+
+% plainスタイル（目次・章の頭など用）にも同じフッターを適用
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \setlength{\footskip}{5mm}
+  \fancyfoot[C]{%
+    \begin{minipage}[t]{\textwidth}
+      % {\color{white!10!green!30!blue!100!black!80!}\rule{\textwidth}{0.75pt}}\\[1.5ex]
+      \footnotesize
+      \raggedright
+      \hfill\textnormal{©2025 Scrum.org | All Rights Reserved.　| \ \thepage}
+    \end{minipage}
+  }
+}
 
 % 指定位置に画像を表示する
 %% \usepackage{everypage}
