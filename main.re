@@ -378,7 +378,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@#  * @<b>{Iterative, Time-Boxed Procurement}: Use short, collaborative cycles to adapt quickly.
  * @<b>{反復的でタイムボックス化された}@<wb>{procurement}: 短く、@<w>{collaborative}なサイクルを用いて、迅速に適応する
 #@#  * @<b>{Early and Deep Supplier Involvement}: Co-create solutions with partners from the outset to drive innovation.
- * @<b>{早期かつ深い}@<wb>{supplier}@<b>{の関与}: パートナーと初期段階から共創し、イノベーションを推進する
+ * @<wb>{supplier}@<b>{の早期かつ深い関与}: パートナーと初期段階から共創し、イノベーションを推進する
 #@#  * @<b>{Agile Contracts for Collaboration}: Structure agreements to enable transparency, shared risk, and joint problem-solving. @<bib>{13}
  * @<wb>{collaboration}@<b>{を促進するアジャイル契約}: 透明性、リスクの共有、共同での問題解決を可能にするように契約を構築する@<bib>{13}
 #@#  * @<b>{Continuous Learning and Improvement}: Regularly inspect, adapt, and enhance supplier contracts and procurement capability.
