@@ -287,3 +287,28 @@ fontupper={\textsf{\userelfont\sffamily\gtfamily}}, % 本文をゴシック体�
 % Re:VIEWの //table が内部で使う tabular/longtable に一括適用
 \AtBeginEnvironment{tabular}{\rowcolors{1}{ReviewTableBG}{ReviewTableBG}}
 \AtBeginEnvironment{longtable}{\rowcolors{1}{ReviewTableBG}{ReviewTableBG}}
+
+% ---- 参考文献番号の後の改行を抑止 ----
+% \RequirePackage{review-bib}
+% ---- bibliography のぶら下げインデント（確実に後から上書き） ----
+\makeatletter
+\AtBeginDocument{%
+  \@ifundefined{reviewbibpaper}{}{%
+    \let\origreviewbibpaper\reviewbibpaper
+    \renewcommand{\reviewbibpaper}[2]{%
+      \par\begingroup
+        \hangindent=2em    % ← ぶら下げ幅（好みで 1.5em〜2.5em）
+        \hangafter=1
+        \noindent [#1]\enspace #2\par
+      \endgroup
+    }%
+  }%
+}
+\makeatother
+% ------------------------------------------------------------------
+\newcommand{\BibItem}[2]{%
+  \noindent
+  \hangindent=2em
+  \hangafter=1
+  [#1] #2\par
+}

@@ -1,0 +1,31 @@
+% review-bib.sty - Compact Re:VIEW bibliography, no line breaks
+\ProvidesPackage{review-bib}[2025/10/21 v1.4 Compact bibliography fix]
+
+% --- etoolbox がまだ読み込まれていない可能性に備えてロード
+\RequirePackage{etoolbox}
+
+% --- section* の前後余白を詰める
+\AtBeginDocument{%
+  \pretocmd{\section*}{\vspace{-\baselineskip}}{}{}%
+}
+
+% --- 各文献エントリの改行を潰す設定
+\makeatletter
+\newenvironment{reviewbib}{%
+  \begin{list}{}{%
+    \setlength{\leftmargin}{2em}%
+    \setlength{\itemindent}{0pt}%
+    \setlength{\itemsep}{0.3\baselineskip}%
+    \setlength{\parsep}{0pt}%
+  }%
+}{%
+  \end{list}%
+}
+\newenvironment{reviewbibpaper}[2][]{%
+  \item[#1]\leavevmode%
+  \nobreak\ignorespaces%
+  \unskip\vspace{-0.8\baselineskip}\noindent%
+}{%
+  \unskip\par\ignorespacesafterend%
+}
+\makeatother
