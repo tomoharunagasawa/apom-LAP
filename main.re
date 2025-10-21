@@ -489,7 +489,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
  * @<i>{発見フェーズ}: @<w>{supplier}は、@<w>{requirement}が確定してから関与するのではなく、発見フェーズの段階で、市場のインサイト、技術的な専門知識、革新的なアイデアを提供する。
 
 #@#  * @<i>{Delivery Phase}: Adaptive contracts enable suppliers to evolve their contributions based on learning and feedback during delivery, supporting the APOM iterative approach.
- * @<i>{提供フェーズ}: 適応力のある契約によって、@<w>{supplier}は、提供中の学びやフィードバックに基づき、自らの貢献内容を進化させることができ、APOMの反復的なアプローチを支援する。
+ * @<i>{提供フェーズ}: 適応力のある契約によって、@<w>{supplier}は、提供中に得られた学びやフィードバックに基づき、自らの貢献内容を進化させることができ、APOMの反復的なアプローチを支援する。
 
 #@#  * @<i>{Operations Phase}: Suppliers become active participants in operations, monitoring performance, identifying optimization opportunities, and contributing to continuous improvement.
  * @<i>{運用フェーズ}: @<w>{supplier}は、運用における積極的な参加者となり、パフォーマンスをモニタリングし、最適化の機会を特定し、継続的な改善に貢献する。
