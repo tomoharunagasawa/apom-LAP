@@ -512,59 +512,81 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 
 ====[/column]
 
-== Measuring Success: Value Realization Measured through Evidence
-Successful LAP and APOM integration requires comprehensive measurement systems that track both traditional procurement metrics and new indicators of collaborative excellence and strategic value creation. @<bib>{14}
+#@# == Measuring Success: Value Realization Measured through Evidence
+== エビデンスによって計測される価値の実現
 
-=== An evidence-based approach
+#@# Successful LAP and APOM integration requires comprehensive measurement systems that track both traditional procurement metrics and new indicators of collaborative excellence and strategic value creation. @<bib>{14}
+LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}の@<w>{metrics}に加え、@<w>{collaborative}な卓越性や戦略的な価値創出の新たな@<w>{measurement}を追跡する包括的な計測システムが必要である@<bib>{14}。
+
+#@# === An evidence-based approach
+=== エビデンスベースドアプローチ
 
 //image[kva][][scale=1.0]{
 //}
 
-=== Traditional Procurement Metrics Evolution
+#@# MEMO: ここのmetricsは、「指標」とする
+#@# === Traditional Procurement Metrics Evolution
+=== 従来の@<w>{procurement}の指標の進化
 
 ===[column]
-==== Cost Metrics Evolution
- * @<i>{Traditional}: Total cost savings, unit cost reduction, cost avoidance
- * @<i>{LAP-APOM}: Total cost of ownership optimization, value-for-money improvement, strategic cost positioning
+#@# ==== Cost Metrics Evolution
+==== コスト指標の進化
 
-==== Time Metrics Evolution
- * @<i>{Traditional}: Procurement cycle time, time to contract, supplier onboarding time
- * @<i>{LAP-APOM}: Time to value realization, speed of adaptation, collaborative decision-making velocity
+#@#  * @<i>{Traditional}: Total cost savings, unit cost reduction, cost avoidance
+ * @<i>{従来の指標}: 総コスト削減、原価低減、コスト回避
+#@#  * @<i>{LAP-APOM}: Total cost of ownership optimization, value-for-money improvement, strategic cost positioning
+ * @<i>{LAP-APOMの指標}: 総保有コスト（TCO）の最適化、費用対効果の向上、戦略的コストポジショニング
 
-==== Quality Metrics Evolution
- * @<i>{Traditional}: Specification compliance, defect rates, supplier performance ratings
- * @<i>{LAP-APOM}: Outcome achievement, solution effectiveness, stakeholder satisfaction
+#@# ==== Time Metrics Evolution
+==== 時間指標の進化
+
+#@#  * @<i>{Traditional}: Procurement cycle time, time to contract, supplier onboarding time
+ * @<i>{従来の指標}: @<w>{procurement}のサイクルタイム、契約締結までの時間、@<w>{supplier}のオンボーディング時間
+#@#  * @<i>{LAP-APOM}: Time to value realization, speed of adaptation, collaborative decision-making velocity
+ * @<i>{LAP-APOMの指標}: 価値実現までの時間、適応の速さ、@<w>{collaborative}な意思決定のベロシティ@<fn>{velocity}
+
+#@# ==== Quality Metrics Evolution
+==== 品質指標の進化
+
+#@#  * @<i>{Traditional}: Specification compliance, defect rates, supplier performance ratings
+ * @<i>{従来の指標}: 仕様遵守、欠陥率、@<w>{supplier}のパフォーマンス評価
+#@#  * @<i>{LAP-APOM}: Outcome achievement, solution effectiveness, stakeholder satisfaction
+ * @<i>{LAP-APOMの指標}: アウトカムの達成度、ソリューションの効果性、ステークホルダーの満足度
 
 ===[/column]
 
-=== New Collaborative Excellence Metrics
+//footnote[velocity][訳注: 一定期間内にどれだけ多く、速く、効果的に意思決定や価値提供が行われたかを指す指標のことで、アジャイル開発におけるベロシティの概念に類似している。]
 
-//tsize[50,30,55]
+#@# === New Collaborative Excellence Metrics
+=== 新たな@<w>{collaborative}な卓越性の@<w>{metrics}
+
+//tsize[50,36,56]
 //table[]{
-@<b>{Area}	@<b>{Key Value Area}	@<b>{Metric}
+#@# @<b>{Area}	@<b>{Key Value Area}	@<b>{Metric}
+@<b>{分野}	@<b>{重要価値領域}	@<wb>{metrics}
 ----------------------------
-Relationship Quality Indicators	Current Value	Supplier satisfaction scores with collaborative processes
-
-Relationship Quality Indicators	Current Value	Trust and partnership quality assessments
-
-Relationship Quality Indicators	Ability to Innovate	Collaborative innovation metrics
-
-Agility and Adaptation Metrics	Ability to Innovate	Speed of contract modification and adaptation
-
-Agility and Adaptation Metrics	Time to Market	Responsiveness to changing requirements
-
-Agility and Adaptation Metrics	Ability to Innovate	Frequency and effectiveness of collaborative improvements
-
-Agility and Adaptation Metrics	Unrealized Value	Market opportunity capture rate
-
-Strategic Value Creation Metrics	Current Value	Contribution to strategic objective achievement
-
-Strategic Value Creation Metrics	Ability to Innovate	Innovation generated through supplier partnerships
-
-Strategic Value Creation Metrics	Unrealized Value	Competitive advantage created through procurement capabilities
-
-Strategic Value Creation Metrics	Current Value	Internal stakeholder satisfaction with procurement outcomes
-
+#@# @<w>{Relationship Quality Indicators}	@<w>{Current Value}	Supplier satisfaction scores with collaborative processes
+@<w>{Relationship Quality Indicators}	@<w>{Current Value}	@<w>{collaborative}なプロセスに対する@<w>{supplier}の満足度スコア
+#@# @<w>{Relationship Quality Indicators}	@<w>{Current Value}	Trust and partnership quality assessments
+@<w>{Relationship Quality Indicators}	@<w>{Current Value}	信頼とパートナーシップの質の評価
+#@# @<w>{Relationship Quality Indicators}	@<w>{Ability to Innovate}	Collaborative innovation metrics
+@<w>{Relationship Quality Indicators}	@<w>{Ability to Innovate}	@<w>{collaborative}なイノベーションの@<w>{metrics}
+#@# @<w>{Agility and Adaptation Metrics}	@<w>{Ability to Innovate}	Speed of contract modification and adaptation
+@<w>{Agility and Adaptation Metrics}	@<w>{Ability to Innovate}	契約の変更および適応のスピード
+#@# @<w>{Agility and Adaptation Metrics}	@<w>{Time to Market}	Responsiveness to changing requirements
+@<w>{Agility and Adaptation Metrics}	@<w>{Time to Market}	変化する@<w>{requirement}への反応性
+#@# @<w>{Agility and Adaptation Metrics}	@<w>{Ability to Innovate}	Frequency and effectiveness of collaborative improvements
+@<w>{Agility and Adaptation Metrics}	@<w>{Ability to Innovate}	@<w>{collaborative}な改善の頻度と効果性
+#@# @<w>{Agility and Adaptation Metrics}	@<w>{Unrealized Value}	Market opportunity capture rate
+@<w>{Agility and Adaptation Metrics}	@<w>{Unrealized Value}	市場機会の獲得率
+#@# @<w>{Strategic Value Creation Metrics}	@<w>{Current Value}	Contribution to strategic objective achievement
+@<w>{Strategic Value Creation Metrics}	@<w>{Current Value}	戦略的な目標達成への貢献度
+#@# @<w>{Strategic Value Creation Metrics}	@<w>{Ability to Innovate}	Innovation generated through supplier partnerships
+@<w>{Strategic Value Creation Metrics}	@<w>{Ability to Innovate}	@<w>{supplier}とのパートナーシップを通じて生み出されるイノベーション
+#@# @<w>{Strategic Value Creation Metrics}	@<w>{Unrealized Value}	Competitive advantage created through procurement capabilities
+@<w>{Strategic Value Creation Metrics}	@<w>{Unrealized Value}	@<w>{procurement}の能力によって創出される競争優位性
+#@# @<w>{Strategic Value Creation Metrics}	@<w>{Current Value}	Internal stakeholder satisfaction with procurement outcomes
+@<w>{Strategic Value Creation Metrics}	@<w>{Current Value}	@<w>{procurement}のアウトカムに対する内部ステークホルダーの満足度
 //}
 
 == Critical Success Factors for Implementation
