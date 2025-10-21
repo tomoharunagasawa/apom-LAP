@@ -657,58 +657,99 @@ LAPアプローチをAPOMに統合して成功させるには、意図的な変�
 #@# Within the APOM and LAP approaches the Product Owner needs to be effective. This requires them to own the whole partner ecosystem for their product - to enable them to manage for the maximum value delivered. The Product Owner will have the ability to deliver, and be accountable for the value delivered and the return on investment.
 APOMとLAPのアプローチにおいては、プロダクトオーナーが効果的である必要がある。そのためには、自らのプロダクトに関わるパートナーエコシステム全体に責任を持ち、最大限の価値提供を実現できるように管理することが求められる。プロダクトオーナーは、価値提供と投資収益率（ROI）に対して説明責任を持ち、それを実現する能力を備えている。
 
-== Conclusion: The Strategic Imperative for Procurement Transformation
+#@# == Conclusion: The Strategic Imperative for Procurement Transformation
+== @<w>{procurement}変革における戦略的な必然性（結論）
 
-=== The Adoption Imperative
+#@# === The Adoption Imperative
+=== 導入の必然性
 
-To successfully embrace a more product-based operating model, building a capability for procurement to establish partnerships with suppliers is key. The LAP approach is a natural fit for APOM. Building in the speed and flexibility of contracting into the product and portfolio team capability creates a foundation for success.
+#@# To successfully embrace a more product-based operating model, building a capability for procurement to establish partnerships with suppliers is key. The LAP approach is a natural fit for APOM. Building in the speed and flexibility of contracting into the product and portfolio team capability creates a foundation for success.
+より@<w>{product-based}のオペレーティングモデルを効果的に導入するためには、@<w>{supplier}とのパートナーシップを構築できる@<w>{procurement}の能力を身につけることが鍵となる。LAPのアプローチは、APOMと自然に適合する。契約締結におけるスピードと柔軟性をプロダクトチームおよびポートフォリオチームの能力に組み込むことで、成功のための基盤を築くことができる。
 
-Adopting this approach one product at a time is a proven change mechanism, allowing for the organisation to apply the learnings in an iterative manner. 
+#@# Adopting this approach one product at a time is a proven change mechanism, allowing for the organisation to apply the learnings in an iterative manner. 
+このアプローチをプロダクトごとに段階的に導入していくことは、効果が実証されている変革メカニズムである。これにより、組織は得た学びを反復的に適用していくことができる。
 
-The evidence is overwhelming: procurement transformation is no longer optional—it's a strategic imperative for organizations seeking to compete effectively in an uncertain, fast-changing world. The convergence of digital transformation, supply chain complexity, regulatory requirements, and competitive pressures creates an environment where traditional procurement approaches are not just ineffective—they're actively harmful to organizational performance.
+#@# The evidence is overwhelming: procurement transformation is no longer optional—it's a strategic imperative for organizations seeking to compete effectively in an uncertain, fast-changing world. The convergence of digital transformation, supply chain complexity, regulatory requirements, and competitive pressures creates an environment where traditional procurement approaches are not just ineffective—they're actively harmful to organizational performance.
+圧倒的なエビデンスが示しているように、@<w>{procurement}の変革は、もはや選択肢ではなく、不確実で変化の激しい世界で効果的に競争しようとする組織にとっての戦略的必然である。デジタルトランスフォーメーション（DX）、サプライチェーンの複雑化、法規制への対応、競争圧力の高まりが重なり合うことで、従来の@<w>{procurement}の進め方は、単に効果を失うだけでなく、むしろ組織のパフォーマンスを損なう要因となっている。
 
-Organizations continuing to operate procurement as a traditional cost-cutting function will find themselves at an increasing disadvantage to competitors who understand that procurement is a strategic enabler of agility, innovation, and competitive advantage. The question is not whether to transform procurement, but how quickly and effectively to execute that transformation.
+#@# Organizations continuing to operate procurement as a traditional cost-cutting function will find themselves at an increasing disadvantage to competitors who understand that procurement is a strategic enabler of agility, innovation, and competitive advantage. The question is not whether to transform procurement, but how quickly and effectively to execute that transformation.
+他の@<w>{competitor}が、@<w>{procurement}がアジリティ、イノベーション、競争優位のための戦略的な@<w>{enabler}であることを理解している一方で、依然として@<w>{procurement}をコスト削減のための従来型の機能として運用し続けている組織は、ますます不利な立場に置かれることになるだろう。問題は、「@<w>{procurement}を変革すべきかどうか」ではなく、「どれだけ迅速かつ効果的にその変革を実行できるか」である。
 
-LAP, when integrated with APOM, represents a proven approach to procurement transformation that delivers measurable results.
+#@# LAP, when integrated with APOM, represents a proven approach to procurement transformation that delivers measurable results.
+LAPをAPOMと統合することで、計測可能な成果をもたらすことが実証されている@<w>{procurement}の変革のアプローチが実現する。
 
- * @<b>{Performance Gains} – 400–800% faster procurement cycles, over 9/10 buyer–vendor satisfaction, 40–60% fewer disputes, and up to 40% more innovative solutions through collaboration.
+#@#  * @<b>{Performance Gains} – 400–800% faster procurement cycles, over 9/10 buyer–vendor satisfaction, 40–60% fewer disputes, and up to 40% more innovative solutions through collaboration.
+ * @<b>{パフォーマンスの向上}: @<w>{procurement}のサイクルを400〜800％短縮し、発注側と受託側の満足度が9割を超え、紛争は40〜60％減少し、@<w>{collaboration}によって最大40％多くの革新的なソリューションが実現した。
 
- * @<b>{Strategic Advantage} – Faster market response, extended organizational agility, stronger supplier partnerships, and sustained competitive differentiation.
+#@#  * @<b>{Strategic Advantage} – Faster market response, extended organizational agility, stronger supplier partnerships, and sustained competitive differentiation.
+ * @<b>{戦略的な優位性}: 市場への迅速な反応、組織的なアジリティの拡張、@<w>{supplier}とのパートナーシップの強化、持続的な競争上の差別化を実現した。
 
- *@<b>{Cultural & Organizational Impact} – Improved cross-functional collaboration, stronger strategic thinking, higher employee engagement, and greater resilience in uncertainty.
+#@#  * @<b>{Cultural & Organizational Impact} – Improved cross-functional collaboration, stronger strategic thinking, higher employee engagement, and greater resilience in uncertainty.
+ * @<b>{文化的および組織的な影響}: @<w>{cross-functional}的な@<w>{collaboration}の改善、より強力な戦略的思考、従業員エンゲージメントの向上、不確実性に対するレジリエンスの強化を実現した。
 
-=== The Path Forward
-The choice for senior leaders is clear: evolve procurement capabilities now to build sustainable competitive advantages, or risk being outmaneuvered by more agile competitors. The tools, frameworks, and proven practices exist. What's needed is executive commitment to transformation and the courage to move beyond traditional approaches that no longer serve modern business needs.
+#@# === The Path Forward
+=== 今後の道筋
+
+#@# The choice for senior leaders is clear: evolve procurement capabilities now to build sustainable competitive advantages, or risk being outmaneuvered by more agile competitors. The tools, frameworks, and proven practices exist. What's needed is executive commitment to transformation and the courage to move beyond traditional approaches that no longer serve modern business needs.
+上級リーダーにとっての選択は明確である。今すぐ@<w>{procurement}の能力を進化させ、持続的な競争優位を構築するか、あるいは、よりアジャイルな@<w>{competitor}に後れを取るかのどちらかでしかない。必要なツール、フレームワーク、実証済みのプラクティスはすでに存在している。求められているのは、変革への経営層のコミットメントと、もはや現代のビジネスニーズに応えられない従来型のアプローチを乗り越える勇気である。
 
 ===[column]
-==== Immediate Next Steps
- 1. @<b>{Assessment and Readiness}: Evaluate current procurement capabilities and organizational readiness for transformation
- 2. @<b>{Executive Alignment}: Secure executive commitment and resource allocation for comprehensive procurement transformation
- 3. @<b>{Pilot Planning}: Identify high-value pilot opportunities that can demonstrate LAP benefits and build organizational momentum
- 4. @<b>{Capability Building}: Begin developing internal capabilities and external partnerships necessary for successful implementation
- 5. @<b>{Transformation Roadmap}: Develop detailed transformation roadmap with clear milestones, success metrics, and accountability structures
+#@# ==== Immediate Next Steps
+==== 今すぐに取るべき次のステップ
+
+#@#  1. @<b>{Assessment and Readiness}: Evaluate current procurement capabilities and organizational readiness for transformation
+ 1. @<b>{評価と準備状況の確認}: 現在の@<w>{procurement}の能力と、変革に向けた組織の準備状況を評価する。
+#@#  2. @<b>{Executive Alignment}: Secure executive commitment and resource allocation for comprehensive procurement transformation
+ 2. @<wb>{executive}@<b>{との合意形成}: @<w>{executive}のコミットメントを確保し、包括的な@<w>{procurement}の変革に必要なリソースを配分する。
+#@#  3. @<b>{Pilot Planning}: Identify high-value pilot opportunities that can demonstrate LAP benefits and build organizational momentum
+ 3. @<b>{パイロットの計画}: LAPの効果を実証し、組織内の推進力を高められる高い付加価値のあるパイロットの機会を特定する。
+#@#  4. @<b>{Capability Building}: Begin developing internal capabilities and external partnerships necessary for successful implementation
+ 4. @<b>{能力の構築}: 成功裡に実現するために必要な内部能力と外部パートナーシップの構築を開始する。
+#@#  5. @<b>{Transformation Roadmap}: Develop detailed transformation roadmap with clear milestones, success metrics, and accountability structures
+ 5. @<b>{変革のロードマップ}: 明確なマイルストーン、成功の指標、説明責任の仕組みを備えた詳細な変革ロードマップを策定する。
 
 ===[/column]
 
-== Final Perspective: Beyond Procurement to Organizational Excellence
-LAP and APOM integration represents more than procurement improvement—it's a pathway to organizational excellence in the 21st century. The collaborative capabilities, strategic thinking, and adaptive approaches developed through procurement transformation create organizational capabilities that provide value across all business functions.
+#@# == Final Perspective: Beyond Procurement to Organizational Excellence
+== @<w>{procurement}を超えて組織的卓越性へ（最終的な視座）
 
-Organizations that master collaborative procurement will build sustainable advantages not just in cost and efficiency, but in innovation, agility, and strategic partnership development. These capabilities become increasingly valuable as markets become more volatile, competitive pressures intensify, and customer expectations continue to evolve.
+#@# LAP and APOM integration represents more than procurement improvement—it's a pathway to organizational excellence in the 21st century. The collaborative capabilities, strategic thinking, and adaptive approaches developed through procurement transformation create organizational capabilities that provide value across all business functions.
+LAPとAPOMの統合は、単なる@<w>{procurement}の改善を超えたものであり、21世紀における組織的卓越性への道筋を示している。@<w>{procurement}の変革を通じて培われる@<w>{collaborative}な能力、戦略的思考、適応力のあるアプローチは、ビジネスのあらゆる領域で価値をもたらす組織的な能力を形成する。
 
-By embracing LAP with APOM, organizations can build procurement capabilities that are responsive, evidence-based, and optimized for the complexity and uncertainty of the modern business environment. The transformation journey requires commitment, investment, and persistence, but the rewards—in terms of competitive advantage, organizational capability, and strategic value creation—make it one of the most important strategic initiatives an organization can undertake.
+#@# Organizations that master collaborative procurement will build sustainable advantages not just in cost and efficiency, but in innovation, agility, and strategic partnership development. These capabilities become increasingly valuable as markets become more volatile, competitive pressures intensify, and customer expectations continue to evolve.
+@<w>{collaborative}な@<w>{procurement}を身につけた組織は、コストや効率性の面だけでなく、イノベーション、アジリティ、戦略的なパートナーシップの構築においても、持続的な競争優位性を築くことができる。市場の変動性が高まり、競争圧力が強まり、顧客の期待が進化し続ける中で、ますます価値あるものとなっていく。
 
-The future belongs to organizations that can collaborate effectively, adapt quickly, and create value through strategic partnerships. LAP and APOM integration provides a proven pathway to building these capabilities and securing competitive advantage for the decades ahead.
+#@# By embracing LAP with APOM, organizations can build procurement capabilities that are responsive, evidence-based, and optimized for the complexity and uncertainty of the modern business environment. The transformation journey requires commitment, investment, and persistence, but the rewards—in terms of competitive advantage, organizational capability, and strategic value creation—make it one of the most important strategic initiatives an organization can undertake.
+APOMとともにLAPを採り入れることで、組織は現代のビジネス環境における複雑性と不確実性に対応した、反応性が高く、エビデンスに基づいていて、最適化された@<w>{procurement}の能力を構築できる。この変革の過程には、コミットメント、投資、継続的な取り組みが求められるが、競争優位性、組織的な能力、戦略的な価値創出の観点から得られる報酬は、組織が取り組むべき最も重要な戦略的なイニシアティブのひとつである。
 
-== About Scrum.org
-Scrum.org, the Home of Scrum, was founded by Scrum co-creator Ken Schwaber as a mission-based organization to help people and teams solve complex problems. We do this by enabling people to apply Professional Scrum through training courses, certifications and ongoing learning all based on a common competency model.
+#@# The future belongs to organizations that can collaborate effectively, adapt quickly, and create value through strategic partnerships. LAP and APOM integration provides a proven pathway to building these capabilities and securing competitive advantage for the decades ahead.
+これからの時代において競争優位性を確立できるのは、効果的な@<w>{collaboration}、迅速な適応、戦略的なパートナーシップを通じて価値を創出できる組織である。LAPとAPOMの統合は、これらの能力を体系的に構築するための実証されたアプローチを提供する。
+
+#@# == About Scrum.org
+== Scrum.orgについて
+
+#@# Scrum.org, the Home of Scrum, was founded by Scrum co-creator Ken Schwaber as a mission-based organization to help people and teams solve complex problems. We do this by enabling people to apply Professional Scrum through training courses, certifications and ongoing learning all based on a common competency model.
+@<href>{https://scrum.org, Scrum.org}@<w>{-}the Home of Scrum@<w>{-}は、スクラムの共同作成者であるケン・シュエイバー氏によって設立された、人々やチームが複雑な問題を解決するのを支援するミッションベースの組織である。Scrum.org は、トレーニングコース、認定制度、共通のコンピテンシーモデルに基づく継続的な学習を通じて、人々がプロフェッショナルスクラムを適用できるようにすることで、この目的を実現している。
 
 //image[Scrumorg][][scale=0.5]{
 //}
 
 
-== About Lean Agile Procurement
-For nearly a decade, the Lean-Agile Procurement Alliance has helped public and private organizations achieve better, faster outcomes through a win-win mindset, reduced bureaucracy, and cross-company collaboration. As a global not-for-profit certification body, the LAP Alliance unites experts and trainers on nearly every continent. Lean-Agile Procurement (LAP) is now the standard approach for strategic sourcing. With this white paper we show how LAP integrates with APOM and other agile operating models.
+#@# == About Lean Agile Procurement
+== Lean Agile Procurementについて
+
+#@# For nearly a decade, the Lean-Agile Procurement Alliance has helped public and private organizations achieve better, faster outcomes through a win-win mindset, reduced bureaucracy, and cross-company collaboration. As a global not-for-profit certification body, the LAP Alliance unites experts and trainers on nearly every continent. Lean-Agile Procurement (LAP) is now the standard approach for strategic sourcing. With this white paper we show how LAP integrates with APOM and other agile operating models.
+過去10年近くにわたり、Lean-Agile Procurement Alliance（LAP Alliance）は、Win-Winのマインドセット、官僚主義の削減、@<w>{cross-company}な@<w>{collaboration}を通じて、官民の組織がより優れた、より迅速なアウトカムを達成する支援を行ってきた。LAP Allianceは、世界各地のエキスパートやトレーナーを結集したグローバルな非営利の認定機関である。LAPは、今や戦略的な調達における標準的なアプローチとなっている。本ホワイトペーパーでは、LAPがAPOMおよびその他のアジャイルなオペレーティングモデルとどのように統合されるかを示す。
 
 //image[LAP][][scale=0.5]{
 //}
 
+== 翻訳について
+
+本ホワイトペーパーは、英語版「Accelerating Value: Integrating Lean-Agile Procurement with the Agile Product Operating Model」を日本語に翻訳したものである。日本語翻訳は、長沢智治が担当した。
+
+また、翻訳レビューはオープン形式で実施した。主に翻訳レビューに協力してくださった方々は次の方々である:
+
+A、B、C（順不同、敬称略）
+
+その他の方々は、@<href>{https://github.com/tomoharunagasawa/apom-LAP/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%E7%BF%BB%E8%A8%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC, こちら}に記載されている。
