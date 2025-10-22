@@ -9,6 +9,10 @@
 \renewcommand\kanjifamilydefault{\gtdefault}
 \renewcommand\familydefault{\sfdefault}
 
+% @<i>に明朝体を割り当て斜体にしない
+% \renewcommand{\reviewit}[1]{\textsf{\userelfont\sffamily\mcfamily #1}}
+\renewcommand{\reviewit}[1]{\textbf{\textrm{\userelfont\mcfamily #1}}}
+
 % ヘッダーの変更
 \fancyhead{}% 既存の設定をキャンセル
 % \fancyhead[LE]{\gtfamily\sffamily\bfseries\upshape \leftmark}% 左ページなら左側の見出し情報（一般に章名）

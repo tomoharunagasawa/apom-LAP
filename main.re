@@ -133,7 +133,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 === 変化する状況には異なるアプローチが必要
 
 #@# The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
-変化する状況は、単なる@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
+変化する状況は、「単なる」@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
 
 //tsize[73,73]
 //table[]{
@@ -185,6 +185,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@#  ~11 months
 約11か月 
 //}
+@<embed>{|latex|\vspace{-3.5\Cvs\}}
 
 //image[2.LeanAgileProcurement][][scale=1.0]
 //{
@@ -204,16 +205,20 @@ Lean-Agile Procurement（アジャイルな@<w>{procurement}）
 数日から数週間
 //}
 
-#@# The contract review schedule is agreed in the LAP approach, whereas World Commerce & Contracting research found that more than 40% of negotiated business agreements are never reviewed or renegotiated after signing.
-LAPアプローチでは、契約の見直しスケジュールをあらかじめ合意する。一方、World Commerce & Contracting（WorldCC）@<fn>{WorldCC}の調査によれば、契約締結後に見直しや再交渉が一度も行われないビジネス契約が40％を超えることが報告されている。
+@<embed>{|latex|\vspace{-3.3\Cvs\}}
 
-//footnote[WorldCC][訳注: グローバルな商取引および契約管理の専門組織であり、ベストプラクティスの普及や業界調査を行っている。]
+#@# The contract review schedule is agreed in the LAP approach, whereas World Commerce & Contracting research found that more than 40% of negotiated business agreements are never reviewed or renegotiated after signing.
+LAPアプローチでは、契約の見直しスケジュールをあらかじめ合意する。一方、WorldCC@<fn>{WorldCC}の調査によれば、契約締結後に見直しや再交渉が一度も行われないビジネス契約が40％を超えることが報告されている。
+
+//footnote[WorldCC][訳注: World Commerce & Contracting。グローバルな商取引および契約管理の専門組織であり、ベストプラクティスの普及や業界調査を行っている。]
 
 #@# == Understanding the Agile Product Operating Model (APOM): A Holistic Framework
-== アジャイルプロダクトオペレーティングモデル（APOM）の理解: 全体的なフレームワーク
+== 包括的なフレームワークとしてのAPOMの理解
 
 #@# The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
 アジャイルプロダクトオペレーティングモデル（APOM）@<bib>{7}は、現代の経済において、スピード、イノベーション、顧客価値を実現するための包括的な組織運営アプローチを表している。従来の職能別サイロ型組織やマトリクス型組織とは異なり、APOMは継続的な価値提供に最適化した統一されたシステムを構築するものである。
+
+@<embed>{|latex|\vspace{-0.458\Cvs\}}
 
 //image[APOM][][scale=1.0]{
 //}
@@ -444,7 +449,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
  * @<i>{承認プロセスの効率化}: ガバナンスプロセスはスピードと効果性を重視して設計されており、明確な意思決定権限と効率化された承認ワークフローを備えている。
 
 #@# @<i>{Transparent Communication}: Governance structures ensure stakeholders have visibility into decisions and outcomes without creating bureaucratic overhead.
- * @<b>{透明性のあるコミュニケーション}: ガバナンス構造は、官僚的な負担を生じることなく、ステークホルダーが意思決定やアウトカムを可視化できるようにする。
+ * @<i>{透明性のあるコミュニケーション}: ガバナンス構造は、官僚的な負担を生じることなく、ステークホルダーが意思決定やアウトカムを可視化できるようにする。
 
 #@# @<i>{Continuous Improvement}: Governance processes themselves are subject to regular review and improvement based on team feedback and performance results.
  * @<i>{継続的な改善}: ガバナンスプロセス自体も、チームからのフィードバックやパフォーマンスの結果に基づいて定期的に見直し、改善の対象とする。
