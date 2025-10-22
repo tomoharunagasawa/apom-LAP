@@ -37,6 +37,9 @@
 //bibpaper[8][Lean Agile. Procurement Alliance, “Big Room Event How to co-create an Agile Contract in less than 2 days with 3 parties simultaneously”, @<href>{https://www.lap-alliance.org/resources/our-blog/2020/2/25/big-room-event-how-to-co-create-an-agile-contract-in-less-than-2-days-with-3-parties-simultaneously}. （アクセスした日: 2025年8月15日）]{
 //}
 
+//blankline
+//blankline
+
 //bibpaper[9][Lean Enterprise Institute. “What is Lean? | Lean Thinking.” Lean Enterprise Institute, @<href>{https://www.lean.org/explore-lean/what-is-lean/} （アクセスした日: 2025年8月15日）]{
 //}
 

@@ -44,6 +44,10 @@ Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦�
 #@# This was achieved by the Netflix culture of People over Process @<bib>{3}. This emphasizes transparency and accountability for achieving successful outcomes. The balance of trust, freedom and accountability enabled Netflix to streamline the procurement process.
 これは、Netflixの「プロセスよりも人を重視する（People over Process）@<bib>{3}」という文化によって実現されたものである。この文化は、透明性と説明責任を重視し、成功するアウトカムの達成に向けた責任を明確にしている。信頼、裁量、説明責任のバランスが、Netflixにおける@<w>{procurement}プロセスの効率化を可能にしたのである。
 
+//blankline
+//blankline
+//blankline
+
 ===[column]
 
 #@# Several converging trends are reshaping the procurement landscape:
@@ -222,6 +226,8 @@ LAPアプローチでは、契約の見直しスケジュールをあらかじ�
 
 //image[APOM][][scale=1.0]{
 //}
+
+@<embed>{|latex|\vspace{-2\Cvs\}}
 
 #@# === The Four Pillars of APOM
 === APOMの4つの柱
@@ -427,6 +433,8 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# @<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
  * @<i>{適応力のある戦略的対応}: 市場環境や顧客からのフィードバックに応じてAPOMの戦略が変化した場合、LAPの適応力のある契約アプローチによって、長期的な再交渉サイクルを経ることなく、@<w>{supplier}や契約内容を迅速に適応させることができる。
 
+//pagebreak
+
 #@# == Agile Governance: Enabling Rather Than Constraining
 == 制約ではなく支援を可能にするアジャイルなガバナンス
 
@@ -528,6 +536,8 @@ LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}�
 
 //image[kva][][scale=1.0]{
 //}
+
+@<embed>{|latex|\vspace{-1.5\Cvs\}}
 
 #@# MEMO: ここのmetricsは、「指標」とする
 #@# === Traditional Procurement Metrics Evolution
@@ -738,7 +748,7 @@ APOMとともにLAPを採り入れることで、組織は現代のビジネス�
 
 //image[Scrumorg][][scale=0.5]{
 //}
-
+@<embed>{|latex|\vspace{-3\Cvs\}}
 
 #@# == About Lean Agile Procurement
 == Lean Agile Procurementについて
@@ -748,6 +758,7 @@ APOMとともにLAPを採り入れることで、組織は現代のビジネス�
 
 //image[LAP][][scale=0.5]{
 //}
+@<embed>{|latex|\vspace{-3\Cvs\}}
 
 == 翻訳について
 
