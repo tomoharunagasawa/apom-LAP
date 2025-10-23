@@ -760,8 +760,10 @@ APOMとともにLAPを採り入れることで、組織は現代のビジネス�
 
 本ホワイトペーパーは、英語版「Accelerating Value: Integrating Lean-Agile Procurement with the Agile Product Operating Model」を日本語に翻訳したものである。日本語翻訳は、長沢智治が担当した。
 
-また、翻訳レビューはオープン形式で実施した。主に翻訳レビューに協力してくださった方々は次の方々である:
+@<b>{翻訳に関する連絡先}: 長沢智治（nagasawa@servantworks.co.jp） 
 
-A、B、C（順不同、敬称略）
+また、翻訳レビューはオープン形式で実施した。主に翻訳レビューに協力してくださったのは次の方々である:
 
-その他の方々は、@<href>{https://github.com/tomoharunagasawa/apom-LAP/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%E7%BF%BB%E8%A8%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC, こちら}に記載されている。
+黒木翔、斎藤紀彦、中村知成（順不同、敬称略）
+
+#@# その他の方々は、@<href>{https://github.com/tomoharunagasawa/apom-LAP/issues?q=is%3Aissue%20state%3Aclosed%20label%3A%E7%BF%BB%E8%A8%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC, こちら}に記載されている。
