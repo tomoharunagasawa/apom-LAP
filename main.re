@@ -106,8 +106,6 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
 先進的な組織は、価値を提供する方法そのものを根本から再構築している。すなわち、@<w>{project-based}のウォーターフォール型アプローチから、@<w>{product-centric}の反復型モデルへと移行しているのだ。この変革は、過去10年間で最も重要な組織的な変化のひとつであり、その影響はソフトウェア開発にとどまらず、ビジネス運営のあらゆる側面に及んでいる。
 
-@<embed>{|latex|\vspace{-0.5\Cvs\}}
-
 //tsize[73,73]
 //table[]{
 #@# @<b>{Project-Based Model}	@<b>{Product-Based Model}
@@ -132,8 +130,6 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 
 #@# The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
 変化する状況は、「単なる」@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
-
-@<embed>{|latex|\vspace{-0.5\Cvs\}}
 
 //tsize[73,73]
 //table[]{
@@ -218,9 +214,10 @@ LAPアプローチでは、契約の見直しスケジュールをあらかじ�
 #@# The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
 アジャイルプロダクトオペレーティングモデル（APOM）@<bib>{7}は、現代の経済において、スピード、イノベーション、顧客価値を実現するための包括的な組織運営アプローチを表している。従来の職能別サイロ型組織やマトリクス型組織とは異なり、APOMは継続的な価値提供に最適化した統一されたシステムを構築するものである。
 
-@<embed>{|latex|\vspace{-0.458\Cvs\}}
+#@# @<embed>{|latex|\vspace{-0.458\Cvs\}}
+@<embed>{|latex|\vspace{-0.4\Cvs\}}
 
-//image[APOM][][scale=0.9]{
+//image[APOM][][scale=1.0]{
 //}
 
 @<embed>{|latex|\vspace{-2\Cvs\}}
@@ -434,8 +431,6 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 #@# @<i>{Adaptive Strategic Response}: When APOM strategy shifts in response to market conditions or customer feedback, LAP's adaptive contracting approaches enable rapid supplier and contract adaptations without lengthy renegotiation cycles.
  * @<i>{適応力のある戦略的対応}: 市場環境や顧客からのフィードバックに応じてAPOMの戦略が変化した場合、LAPの適応力のある契約アプローチによって、長期的な再交渉サイクルを経ることなく、@<w>{supplier}や契約内容を迅速に適応させることができる。
 
-//pagebreak
-
 #@# == Agile Governance: Enabling Rather Than Constraining
 == 制約ではなく支援をもたらすアジャイルなガバナンス
 
@@ -575,8 +570,6 @@ LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}�
 
 #@# === New Collaborative Excellence Metrics
 === 新たな@<w>{collaborative}な卓越性の@<w>{metrics}
-
-@<embed>{|latex|\vspace{-0.5\Cvs\}}
 
 //tsize[50,36,56]
 //table[]{
