@@ -109,7 +109,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 @<b>{定量的な影響}: ある単一のクライアント企業では、購入したソフトウェアの誤使用や未使用により、年間1,700万ドルもの損失が発生していることが判明した。これは、@<w>{procurement}の非効率性がもたらす多大な財務的な影響を示している。この数値は全体コストの一側面に過ぎず、機会損失、イノベーションの遅延、競争上の不利などを考慮に入れると、その実際の影響はしばしば3〜5倍にもなる。
 
 #@# == The Shift from Projects to Products: A Fundamental Business Model Evolution
-== ビジネスモデルの本質的な進化に伴うプロジェクトからプロダクトへの転換 
+== プロジェクトからプロダクトへの転換@<w>{-}ビジネスモデルの本質的な進化
 
 #@# Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
 先進的な組織は、価値を提供する方法そのものを根本から再構築している。すなわち、@<w>{project-based}のウォーターフォール型アプローチから、@<w>{product-centric}の反復型モデルへと移行しているのだ。この変革は、過去10年間で最も重要な組織的な変化のひとつであり、その影響はソフトウェア開発にとどまらず、ビジネス運営のあらゆる側面に及んでいる。
@@ -217,7 +217,7 @@ LAPアプローチでは、契約の見直しスケジュールをあらかじ�
 //footnote[WorldCC][訳注: World Commerce & Contracting。グローバルな商取引および契約管理の専門組織であり、ベストプラクティスの普及や業界調査を行っている。]
 
 #@# == Understanding the Agile Product Operating Model (APOM): A Holistic Framework
-== 包括的なフレームワークとしてのAPOMの理解
+== アジャイルプロダクトオペレーティングモデル@<w>{-}包括的なフレームワーク
 
 #@# The Agile Product Operating Model @<bib>{7} represents a comprehensive approach to organizing for speed, innovation, and customer value in the modern economy. Unlike traditional functional silos or matrix organizations, APOM creates a unified system optimized for continuous value delivery.
 アジャイルプロダクトオペレーティングモデル（APOM）@<bib>{7}は、現代の経済において、スピード、イノベーション、顧客価値を実現するための包括的な組織運営アプローチを表している。従来の職能別サイロ型組織やマトリクス型組織とは異なり、APOMは継続的な価値提供に最適化した統一されたシステムを構築するものである。
@@ -401,7 +401,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 このアプローチの詳細については、@<href>{https://www.lap-alliance.org/why-lap/what-is-lean-agile-procurement}を参照のこと。
 
 #@# == The Integration Strategy: LAP Within APOM
-== LAPをAPOMに統合する戦略
+== APOMにおけるLAPの統合戦略
 
 #@# The true power of LAP emerges when it's integrated into the broader Agile Product Operating Model rather than implemented as an isolated procurement improvement. This integration creates synergies that amplify the benefits of both approaches.
 単なる@<w>{procurement}改善の取り組みとして個別に導入されるものではなく、より包括的なAPOMの中に統合されたときに、LAPの真の力が発揮される。この統合によって、LAPとAPOMの両方の恩恵が増幅される相乗効果が生まれる。
@@ -436,7 +436,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 //pagebreak
 
 #@# == Agile Governance: Enabling Rather Than Constraining
-== 制約ではなく支援を可能にするアジャイルなガバナンス
+== 制約ではなく支援をもたらすアジャイルなガバナンス
 
 #@# @<b>{Traditional Governance Challenge}: Procurement governance often constrains agility through rigid approval processes, fixed contract terms, and risk-averse decision-making.
 @<b>{従来のガバナンスの課題}: @<w>{procurement}のガバナンスは、硬直した承認プロセス、固定された契約条件、リスク回避的な意思決定によって、しばしばアジリティを制約してしまう。
@@ -526,7 +526,7 @@ LAPは、次のような状況で最大の価値を発揮する。すなわち�
 ====[/column]
 
 #@# == Measuring Success: Value Realization Measured through Evidence
-== エビデンスによって計測される価値の実現
+== エビデンスによって価値実現を計測する
 
 #@# Successful LAP and APOM integration requires comprehensive measurement systems that track both traditional procurement metrics and new indicators of collaborative excellence and strategic value creation. @<bib>{14}
 LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}の@<w>{metrics}に加え、@<w>{collaborative}な卓越性や戦略的な価値創出の新たな@<w>{measurement}を追跡する包括的な計測システムが必要である@<bib>{14}。
@@ -673,7 +673,7 @@ LAPアプローチをAPOMに統合して成功させるには、意図的な変�
 APOMとLAPのアプローチにおいては、プロダクトオーナーが効果的である必要がある。そのためには、自らのプロダクトに関わるパートナーエコシステム全体に責任を持ち、最大限の価値提供を実現できるように管理することが求められる。プロダクトオーナーは、価値提供と投資収益率（ROI）に対して説明責任を持ち、それを実現する能力を備えている。
 
 #@# == Conclusion: The Strategic Imperative for Procurement Transformation
-== @<w>{procurement}変革における戦略的な必然性（結論）
+== @<w>{procurement}変革における戦略的な必然性@<w>{-}結論
 
 #@# === The Adoption Imperative
 === 導入の必然性
@@ -726,7 +726,7 @@ LAPをAPOMと統合することで、計測可能な成果をもたらすこと�
 ===[/column]
 
 #@# == Final Perspective: Beyond Procurement to Organizational Excellence
-== @<w>{procurement}を超えて組織的卓越性へ（最終的な視座）
+== @<w>{procurement}を超えて組織的卓越性へ@<w>{-}最終的な視座
 
 #@# LAP and APOM integration represents more than procurement improvement—it's a pathway to organizational excellence in the 21st century. The collaborative capabilities, strategic thinking, and adaptive approaches developed through procurement transformation create organizational capabilities that provide value across all business functions.
 LAPとAPOMの統合は、単なる@<w>{procurement}の改善を超えたものであり、21世紀における組織的卓越性への道筋を示している。@<w>{procurement}の変革を通じて培われる@<w>{collaborative}な能力、戦略的思考、適応力のあるアプローチは、ビジネスのあらゆる領域で価値をもたらす組織的な能力を形成する。
