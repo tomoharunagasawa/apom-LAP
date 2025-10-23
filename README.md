@@ -13,7 +13,7 @@
 
 ### PDFの共有
  * [原文](https://www.scrum.org/resources/accelerating-value-integrating-lean-agile-procurement-agile-product-operating-model)
- * [最新のレビューPDF](https://evangelism-my.sharepoint.com/:b:/g/personal/nagasawa_servantworks_co_jp/EaWLdmoZ7UZJgFJn42_hkAMBMb-e2MUAtTYlZF5UnTQVhQ?e=INjLnn)
+ * 最新のレビューPDF ◀︎ 翻訳レビュー終了です。本家サイトでの正式公開をお待ちください！
    * 図版の内容もレビューしていただきたいです。
    * 結構、頻繁にPDFは更新されます（日に数回レベル）。
 
