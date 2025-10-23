@@ -8,7 +8,7 @@
 #@# In today’s volatile and complex business environment, traditional procurement and project delivery models—built for compliance, cost control, and risk avoidance—are increasingly obsolete. Leading enterprises now focus on improving compliance, cost control, supplier risk management, and speed-to-market, while also enhancing adaptability and innovation. These outcomes are achieved by integrating procurement earlier and more continuously into the product cycle, enabling organizations to respond rapidly to market opportunities and emerging technologies such as AI.
 現代の変動性が高く、複雑なビジネス環境において、コンプライアンス、コスト管理、リスク回避を目的として構築された従来型の@<w>{procurement}@<fn>{Procurement}やプロジェクト型の提供モデルは、もはや通用しなくなりつつある。先進的な企業は現在、コンプライアンス、コスト管理、@<w>{supplier}のリスク管理、そして市場に出すまでのスピードを向上させると同時に、適応力とイノベーションの強化にも注力している。これらの成果は、@<w>{procurement}をプロダクトサイクルの初期段階からより継続的に統合することで達成され、組織は市場の機会やAIなどの新技術に迅速に対応できるようになる。
 
-//footnote[Procurement][訳注: 本ドキュメントにおける「procurement」は単なる購買や発注ではなく、戦略的ソーシング、契約の共創、パートナーとの協働を含む広い概念を指す。LAPではパートナー管理、提案・契約の共創が中核であり、アウトカムに整合したパートナーシップの設計と適応的な契約運用が重視される。]
+//footnote[Procurement][訳注: 本ドキュメントにおける「procurement」は単なる購買や発注ではなく、@<w>{procurement}を含む戦略的なパートナー@<w>{collaboration}を指す。]
 
 #@# Smart organizations are shifting from project-centric to product-centric models, aligning teams and investments with customer outcomes. This evolution demands procurement functions that are embedded, adaptive, and outcome-focused.
 スマートな組織は、@<w>{project-centric}から@<w>{product-centric}のモデルへと移行し、チームと投資を顧客のアウトカムに合わせて整合させている。この進化は、組み込み型で、適応力があり、@<w>{outcome-focused}な@<w>{procurement}の能力を求めている。
@@ -17,11 +17,7 @@
 アジャイルプロダクトオペレーティングモデル（APOM: Agile Product Operating Model）は、組織が価値を提供する方法を、@<w>{project-based}から@<w>{product-based}の提供へと転換することによって構造化するためのアプローチである。APOMは、@<w>{Strategy}（Strategy）、@<w>{People}（People）、@<w>{Structure}（Structure）、@<w>{Value Cycle}（Value Cycle）という相互に依存する4つの柱を用いて、プロダクトを中心に組織を構成するための@<w>{blueprint}を提供する。
 
 #@# Lean-Agile Procurement (LAP) transforms procurement into a strategic enabler within APOM by including procurement into cross-functional teams, dramatically shortening sourcing cycles (by up to 400–800%), and building adaptive supplier ecosystems. Collaborative tools such as the Lean Procurement Canvas and Big Room workshops replace rigid RFP processes with flexible, outcome-driven partnerships.
-Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦略的な@<w>{enabler}へと変革する。これは、@<w>{procurement}を@<w>{cross-functional}チームに組み込み、@<w>{sourcing cycles}を劇的に短縮（最大400〜800％）し、適応力のある@<w>{supplier}エコシステムを構築することで実現される。@<w>{LAP Canvas}@<fn>{LAPCanvas}や@<w>{Big Room Event}@<fn>{BigRoom}などの@<w>{collaborative}なツールは、硬直したRFPプロセスに代わり、柔軟で@<w>{outcome-driven}なパートナーシップを実現する。
-
-//footnote[LAPCanvas][訳注: Lean-Agile Procurement Canvas（LAP Canvas）とは、調達プロセスにおけるリーンとアジャイルの原則を適用するためのフレームワークであり、調達戦略、価値提案、主要なステークホルダー、リスク管理などの要素を視覚的に整理するためのツールである。]
-
-//footnote[BigRoom][訳注: Big Room Eventとは、複数のチームやステークホルダーが一堂に会し、共同で計画、調整、意思決定を行うためのワークショップ形式のイベントである。この形式により、コミュニケーションの効率化、迅速な意思決定、チーム間の連携強化が図られる。Big Room Workshopとも呼ばれる。]
+Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦略的な@<w>{enabler}へと変革する。これは、@<w>{procurement}を@<w>{cross-functional}チームに組み込み、@<w>{sourcing cycles}を劇的に短縮（最大400〜800％）し、適応力のある@<w>{supplier}エコシステムを構築することで実現される。@<w>{LAP Canvas}や@<w>{Big Room Event}などの@<w>{collaborative}なツールは、硬直したRFPプロセスに代わり、柔軟で@<w>{outcome-driven}なパートナーシップを実現する。
 
 #@# Global research and case studies — including Roche, Air France KLM, Swiss Railways, Swiss Casinos, Auckland Council @<bib>{1}, and Dunedin City Council6 — show that integrating APOM and LAP delivers faster time-to-market, as much as 80% cost savings, and increased innovation throughput, with satisfaction rates of 9/10 among both buyers and suppliers. For leadership, the imperative is clear: embedding procurement into the core value creation cycle enables faster strategic pivots, stronger resilience, and a lasting competitive advantage in a market defined by speed and adaptability.
 グローバルな調査とケーススタディ@<w>{-}Roche、Air France KLM、Swiss Railways、Swiss Casinos、Auckland Council @<bib>{1}、およびDunedin City Council@<w>{-}によると、APOMとLAPを統合することで、市場に出すまでの時間を短縮し、最大80％のコスト削減とイノベーションのスループット向上を実現している。さらに、発注側と受託側の双方での満足度は10点満点中で9点に達している。@<w>{leadership}にとって、その必要性は明白である。@<w>{procurement}を価値創出サイクルの中核に組み込むことが、迅速で戦略的なピボット、より強固なレジリエンス、そしてスピードと適応力が重要となる市場における持続的な競争優位をもたらす。
@@ -43,10 +39,6 @@ Lean-Agile Procurement（LAP）は、APOMにおいて、@<w>{procurement}を戦�
 
 #@# This was achieved by the Netflix culture of People over Process @<bib>{3}. This emphasizes transparency and accountability for achieving successful outcomes. The balance of trust, freedom and accountability enabled Netflix to streamline the procurement process.
 これは、Netflixの「プロセスよりも人を重視する（People over Process）@<bib>{3}」という文化によって実現されたものである。この文化は、透明性と説明責任を重視し、成功するアウトカムの達成に向けた責任を明確にしている。信頼、裁量、説明責任のバランスが、Netflixにおける@<w>{procurement}プロセスの効率化を可能にしたのである。
-
-//blankline
-//blankline
-//blankline
 
 ===[column]
 
@@ -114,6 +106,8 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# Leading organizations are fundamentally restructuring how they deliver value, moving from project-based, waterfall approaches to product-centric, iterative models. This transformation represents one of the most significant organizational changes of the past decade, with implications that extend far beyond software development into every aspect of business operations.
 先進的な組織は、価値を提供する方法そのものを根本から再構築している。すなわち、@<w>{project-based}のウォーターフォール型アプローチから、@<w>{product-centric}の反復型モデルへと移行しているのだ。この変革は、過去10年間で最も重要な組織的な変化のひとつであり、その影響はソフトウェア開発にとどまらず、ビジネス運営のあらゆる側面に及んでいる。
 
+@<embed>{|latex|\vspace{-0.5\Cvs\}}
+
 //tsize[73,73]
 //table[]{
 #@# @<b>{Project-Based Model}	@<b>{Product-Based Model}
@@ -138,6 +132,8 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 
 #@# The changing context leads to a different approach, engaging with vendors as partners in collaborative success rather than “just” suppliers.
 変化する状況は、「単なる」@<w>{supplier}ではなく、@<w>{collaborative}な成功を目指すパートナーとして関与するという、異なるアプローチを取ることにつながる。
+
+@<embed>{|latex|\vspace{-0.5\Cvs\}}
 
 //tsize[73,73]
 //table[]{
@@ -224,7 +220,7 @@ LAPアプローチでは、契約の見直しスケジュールをあらかじ�
 
 @<embed>{|latex|\vspace{-0.458\Cvs\}}
 
-//image[APOM][][scale=1.0]{
+//image[APOM][][scale=0.9]{
 //}
 
 @<embed>{|latex|\vspace{-2\Cvs\}}
@@ -333,7 +329,12 @@ APOMの@<w>{Structure}は、制御ではなく支援を重視する。硬直し�
 ====[/column]
 
 #@# @<b>{Procurement Implications}: Partners must be integrated into the entire value cycle, from discovery to operations. All external parties are treated like internal staff. This collaboration is defined on the LAP canvas. This requires new forms of collaboration (using more collaborative meeting approaches like the Big Room Event @<bib>{8}, regular engagement in product reviews, more frequent collaborative review of contracts), shared metrics, and adaptive contracting approaches.
-@<wb>{procurement}@<b>{への影響}: パートナーは、発見から運用に至る@<w>{Value Cycle}全体に統合されなければならない。すべての外部関係者も、内部メンバーと同等に扱われる。この@<w>{collaboration}は、@<w>{LAP Canvas}上で明確にする。これを実現するためには、新しい形態の@<w>{collaboration}（@<w>{Big Room Event}@<bib>{8}のような、より@<w>{collaborative}なミーティングのアプローチ、定期的なプロダクトレビュー、より頻繁な契約の@<w>{collaborative}な見直しなど）、共有する@<w>{metrics}、適応力のある契約アプローチが必要となる。
+@<wb>{procurement}@<b>{への影響}: パートナーは、発見から運用に至る@<w>{Value Cycle}全体に統合されなければならない。すべての外部関係者も、内部メンバーと同等に扱われる。この@<w>{collaboration}は、@<w>{LAP Canvas}@<fn>{LAPCanvas}上で明確にする。これを実現するためには、新しい形態の@<w>{collaboration}（@<w>{Big Room Event}@<fn>{BigRoom}@<bib>{8}のような、より@<w>{collaborative}なミーティングのアプローチ、定期的なプロダクトレビュー、より頻繁な契約の@<w>{collaborative}な見直しなど）、共有する@<w>{metrics}、適応力のある契約アプローチが必要となる。
+
+//footnote[LAPCanvas][訳注: Lean-Agile Procurement Canvas（LAP Canvas）とは、調達プロセスにおけるリーンとアジャイルの原則を適用するためのフレームワークであり、調達戦略、価値提案、主要なステークホルダー、リスク管理などの要素を視覚的に整理するためのツールである。]
+
+//footnote[BigRoom][訳注: Big Room Eventとは、複数のチームやステークホルダーが一堂に会し、共同で計画、調整、意思決定を行うためのワークショップ形式のイベントである。この形式により、コミュニケーションの効率化、迅速な意思決定、チーム間の連携強化が図られる。Big Room Workshopとも呼ばれる。]
+
 
 #@# == Procurement's Evolution Within APOM
 == APOMにおける@<w>{procurement}の進化
@@ -574,6 +575,8 @@ LAPとAPOMの統合を成功させるためには、従来の@<w>{procurement}�
 
 #@# === New Collaborative Excellence Metrics
 === 新たな@<w>{collaborative}な卓越性の@<w>{metrics}
+
+@<embed>{|latex|\vspace{-0.5\Cvs\}}
 
 //tsize[50,36,56]
 //table[]{
