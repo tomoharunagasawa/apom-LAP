@@ -130,7 +130,7 @@ BCIのサプライチェーンレジリエンス調査によると、「サイ�
 #@# Change is expensive and undesirable	Change is expected and embraced as learning
 変更は高コストで望ましくないものである	変更は学習の一環として想定され、受け入れるものである
 #@# Value is delivered at the end of the project lifecycle	Value is delivered continuously throughout the development cycle
-価値はプロジェクトライフサイクル終盤で提供するものである	価値は開発サイクル全体を通じて継続的に提供されるものである
+価値をプロジェクトライフサイクル終盤で提供する	価値を開発サイクル全体を通じて継続的に提供する
 //}
 
 #@# === Changing Context requires a different approach
